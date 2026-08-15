@@ -155,7 +155,7 @@
             "last_commit": "2026-08-13T15:13:00Z",
             "owner": "geekcomputers",
             "repo": "Python",
-            "stars": 35255
+            "stars": 35259
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-07-19T03:40:14Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24397
+            "stars": 24394
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-04-06T16:03:15Z",
             "owner": "trekhleb",
             "repo": "learn-python",
-            "stars": 18193
+            "stars": 18195
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2024-08-18T20:33:41Z",
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5110
+            "stars": 5111
           }
         }
       ],
@@ -217,7 +217,7 @@
             "last_commit": "2026-03-21T13:23:20Z",
             "owner": "edgecase",
             "repo": "ruby_koans",
-            "stars": 825
+            "stars": 826
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-08-11T11:46:06Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63872
+            "stars": 63860
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2026-07-06T10:14:39Z",
             "owner": "rust-lang",
             "repo": "rust-by-example",
-            "stars": 8076
+            "stars": 8077
           }
         }
       ],
@@ -285,7 +285,7 @@
             "last_commit": "2024-08-21T07:12:29Z",
             "owner": "ratfactor",
             "repo": "ziglings",
-            "stars": 4669
+            "stars": 4671
           }
         },
         {
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:47:49.773Z",
+    "last_updated": "2026-08-15T04:48:38.179Z",
     "original_repository": "b0o/awesome-by-example",
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
     "enhanced_repository": "enhansome/enhansome-by-example",
