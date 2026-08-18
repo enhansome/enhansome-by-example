@@ -68,10 +68,10 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,260 | 🐛 505 | 🌐 Python | 📅 2026-08-13
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,394 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-07-19
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,259 | 🐛 503 | 🌐 Python | 📅 2026-08-17
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,395 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-07-19
 * [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,203 | 🐛 43 | 🌐 Python | 📅 2026-04-06
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,112 | 🐛 27 | 🌐 Python | 📅 2024-08-18
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,111 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
@@ -80,7 +80,7 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 63,881 | 🐛 34 | 🌐 Rust | 📅 2026-08-11
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 63,885 | 🐛 34 | 🌐 Rust | 📅 2026-08-11
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,080 | 🐛 82 | 🌐 Handlebars | 📅 2026-07-06
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -127,12 +127,12 @@
 
 * [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
-* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,964 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
+* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,965 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
 * [Kubernetes for kids](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
 
 ## SaaS and APIs
 
-* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,233 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
+* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,232 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
 
 ## General Resources
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

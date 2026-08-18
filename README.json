@@ -152,10 +152,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:13:00Z",
+            "last_commit": "2026-08-17T11:05:26Z",
             "owner": "geekcomputers",
             "repo": "Python",
-            "stars": 35260
+            "stars": 35259
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-07-19T03:40:14Z",
             "owner": "norvig",
             "repo": "pytudes",
-            "stars": 24394
+            "stars": 24395
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2024-08-18T20:33:41Z",
             "owner": "gregmalcolm",
             "repo": "python_koans",
-            "stars": 5112
+            "stars": 5111
           }
         }
       ],
@@ -251,7 +251,7 @@
             "last_commit": "2026-08-11T11:46:06Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63881
+            "stars": 63885
           }
         },
         {
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:59:31.529Z",
+    "last_updated": "2026-08-18T04:53:42.465Z",
     "original_repository": "b0o/awesome-by-example",
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
     "enhanced_repository": "enhansome/enhansome-by-example",
