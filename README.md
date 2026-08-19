@@ -68,10 +68,10 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,259 | 🐛 503 | 🌐 Python | 📅 2026-08-17
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,395 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-07-19
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,203 | 🐛 43 | 🌐 Python | 📅 2026-04-06
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,111 | 🐛 27 | 🌐 Python | 📅 2024-08-18
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,262 | 🐛 504 | 🌐 Python | 📅 2026-08-17
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,397 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-07-19
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,206 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,112 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
@@ -80,8 +80,8 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 63,885 | 🐛 34 | 🌐 Rust | 📅 2026-08-11
-* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,080 | 🐛 82 | 🌐 Handlebars | 📅 2026-07-06
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 63,897 | 🐛 33 | 🌐 Rust | 📅 2026-08-11
+* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,082 | 🐛 82 | 🌐 Handlebars | 📅 2026-07-06
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Scala
@@ -96,10 +96,10 @@
 * [30 Days of Elixir: A walk through the Elixir language in 30 exercises](https://github.com/seven1m/30-days-of-elixir) ⭐ 3,066 | 🐛 0 | 🌐 Elixir | 📅 2022-04-13
 * [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises) ⭐ 3,003 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
 * [PSKoans: A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing](https://github.com/vexx32/PSKoans) ⭐ 1,870 | 🐛 53 | 🌐 PowerShell | 📅 2024-09-03
-* [FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing](https://github.com/ChrisMarinos/FSharpKoans) ⭐ 1,317 | 🐛 14 | 🌐 F# | 📅 2024-02-22
+* [FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing](https://github.com/ChrisMarinos/FSharpKoans) ⭐ 1,318 | 🐛 14 | 🌐 F# | 📅 2024-02-22
 * [FP Course: Learn Functional Programming concepts with the Haskell programming language](https://github.com/tonymorris/course) ⭐ 1,032 | 🐛 18 | 🌐 Haskell | 📅 2023-03-06
 * [Coffeescript Koans: learn CoffeeScript by doing it](https://github.com/sleepyfox/coffeescript-koans) ⭐ 446 | 🐛 1 | 🌐 CoffeeScript | 📅 2016-08-29
-* [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions) ⭐ 395 | 🐛 4 | 🌐 Lua | 📅 2024-06-08
+* [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions) ⭐ 396 | 🐛 4 | 🌐 Lua | 📅 2024-06-08
 * [Erlang Koans: A set of koans for learning Erlang](https://github.com/patrickgombert/erlang-koans) ⭐ 178 | 🐛 0 | 🌐 Erlang | 📅 2020-03-31
 * [V by Example: V by Example is a direct introduction to V by using annotated program examples](https://github.com/v-community/v_by_example) ⭐ 178 | 🐛 34 | 🌐 V | 📅 2022-11-28
 * [GNU Smalltalk Koans: A set of tests to teach you Smalltalk](https://github.com/sl4m/gnu_smalltalk_koans) ⭐ 175 | 🐛 0 | 🌐 Smalltalk | 📅 2020-06-19
@@ -119,7 +119,7 @@
 ## Libraries and Frameworks
 
 * [ReactJS Koans: Learn basics of React.js making the tests pass](https://github.com/arkency/reactjs_koans) ⭐ 3,214 | 🐛 14 | 🌐 JavaScript | 📅 2024-07-08
-* [OSMnx Examples: Usage examples, demos, and tutorials for OSMnx (OpenStreetMap)](https://github.com/gboeing/osmnx-examples) ⭐ 1,881 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-29
+* [OSMnx Examples: Usage examples, demos, and tutorials for OSMnx (OpenStreetMap)](https://github.com/gboeing/osmnx-examples) ⭐ 1,882 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-29
 * [Learning TensorFlow: Simple TensorFlow tutorials for learning by example](https://github.com/michaelmendoza/learning-tensorflow) ⭐ 19 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-08-04
 * [Quickserv Examples: Example applications to run with QuickServ](https://github.com/jstrieb/quickserv-examples) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2022-11-02
 
@@ -127,7 +127,7 @@
 
 * [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
-* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,965 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
+* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,967 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
 * [Kubernetes for kids](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
 
 ## SaaS and APIs
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
