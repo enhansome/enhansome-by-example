@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-17T11:05:26Z",
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35265
+                "stars": 35270
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-07-19T03:40:14Z",
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24402
+                "stars": 24403
               }
             },
             {
@@ -266,10 +266,10 @@
                 "archived": false,
                 "id": 42489829,
                 "language": "Rust",
-                "last_commit": "2026-08-11T11:46:06Z",
+                "last_commit": "2026-08-21T12:25:21Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63913
+                "stars": 63919
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2026-07-06T10:14:39Z",
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8084
+                "stars": 8085
               }
             }
           ],
@@ -366,7 +366,7 @@
                 "last_commit": "2024-09-03T22:08:21Z",
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1870
+                "stars": 1872
               }
             },
             {
@@ -572,7 +572,7 @@
             "last_commit": "2026-07-29T23:20:44Z",
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1882
+            "stars": 1883
           }
         },
         {
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:55:42.603Z",
+    "last_updated": "2026-08-22T04:51:27.780Z",
     "original_repository": "b0o/awesome-by-example",
     "original_repository_id": 338645385,
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
