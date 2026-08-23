@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-17T11:05:26Z",
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35270
+                "stars": 35274
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-04-06T16:03:15Z",
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18210
+                "stars": 18216
               }
             },
             {
@@ -266,10 +266,10 @@
                 "archived": false,
                 "id": 42489829,
                 "language": "Rust",
-                "last_commit": "2026-08-21T12:25:21Z",
+                "last_commit": "2026-08-22T11:33:37Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63919
+                "stars": 63928
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2026-07-06T10:14:39Z",
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8085
+                "stars": 8088
               }
             }
           ],
@@ -366,7 +366,7 @@
                 "last_commit": "2024-09-03T22:08:21Z",
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1872
+                "stars": 1873
               }
             },
             {
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:51:27.780Z",
+    "last_updated": "2026-08-23T04:53:08.270Z",
     "original_repository": "b0o/awesome-by-example",
     "original_repository_id": 338645385,
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
