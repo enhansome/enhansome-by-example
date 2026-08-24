@@ -17,7 +17,7 @@
                 "last_commit": "2024-05-28T20:23:52Z",
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3799
+                "stars": 3800
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-17T11:05:26Z",
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35274
+                "stars": 35278
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-07-19T03:40:14Z",
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24403
+                "stars": 24404
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-04-06T16:03:15Z",
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18216
+                "stars": 18218
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-22T11:33:37Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63928
+                "stars": 63933
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2026-07-06T10:14:39Z",
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8088
+                "stars": 8090
               }
             }
           ],
@@ -351,7 +351,7 @@
                 "last_commit": "2026-03-29T12:34:31Z",
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3005
+                "stars": 3004
               }
             },
             {
@@ -381,7 +381,7 @@
                 "last_commit": "2024-02-22T15:38:45Z",
                 "owner": "ChrisMarinos",
                 "repo": "FSharpKoans",
-                "stars": 1318
+                "stars": 1319
               }
             },
             {
@@ -610,7 +610,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:53:08.270Z",
+    "last_updated": "2026-08-24T05:03:00.315Z",
     "original_repository": "b0o/awesome-by-example",
     "original_repository_id": 338645385,
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
