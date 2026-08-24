@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Asmlings: Learn x86-64 assembly by fixing small programs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1121904943,
+                "language": "Assembly",
+                "last_commit": "2026-06-02T09:44:53Z",
+                "owner": "KazeTachinuu",
+                "repo": "asmlings",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Assembly"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Clojure Koans: A set of exercises for learning Clojure",
               "description": null,
               "children": [],
@@ -76,6 +98,28 @@
           "description": null,
           "node_type": "group",
           "title": "Elm"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go Koans: Koans for Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4152573,
+                "language": "Go",
+                "last_commit": "2022-03-26T14:47:42Z",
+                "owner": "cdarwin",
+                "repo": "go-koans",
+                "stars": 2065
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
         },
         {
           "children": [
@@ -165,7 +209,7 @@
                 "last_commit": "2026-08-17T11:05:26Z",
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35278
+                "stars": 35281
               }
             },
             {
@@ -180,7 +224,7 @@
                 "last_commit": "2026-07-19T03:40:14Z",
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24404
+                "stars": 24403
               }
             },
             {
@@ -195,7 +239,7 @@
                 "last_commit": "2026-04-06T16:03:15Z",
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18218
+                "stars": 18219
               }
             },
             {
@@ -269,7 +313,7 @@
                 "last_commit": "2026-08-22T11:33:37Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63933
+                "stars": 63935
               }
             },
             {
@@ -291,6 +335,28 @@
           "description": null,
           "node_type": "group",
           "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scalania: Learn Scala by examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11070903,
+                "language": "Scala",
+                "last_commit": "2018-03-29T09:52:15Z",
+                "owner": "jaceklaskowski",
+                "repo": "scalania",
+                "stars": 242
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
         },
         {
           "children": [
@@ -336,7 +402,7 @@
                 "last_commit": "2022-04-13T18:14:27Z",
                 "owner": "seven1m",
                 "repo": "30-days-of-elixir",
-                "stars": 3066
+                "stars": 3067
               }
             },
             {
@@ -607,10 +673,94 @@
         }
       ],
       "title": "Libraries and Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Makefile Tutorial: Learn make by example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26828574,
+            "language": "SCSS",
+            "last_commit": "2025-06-02T03:22:25Z",
+            "owner": "chaselambda",
+            "repo": "makefiletutorial",
+            "stars": 5969
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apps Script Samples: Apps Script samples for Google Workspace products",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10655461,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T15:21:47Z",
+            "owner": "googleworkspace",
+            "repo": "apps-script-samples",
+            "stars": 5236
+          }
+        }
+      ],
+      "title": "SaaS and APIs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ahmdrefat/awesome-koans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19601102,
+            "language": null,
+            "last_commit": "2024-05-11T01:21:06Z",
+            "owner": "ahmdrefat",
+            "repo": "awesome-koans",
+            "stars": 460
+          }
+        }
+      ],
+      "title": "Related"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Numerous Koans were adapted from ahmdrefat/awesome-koans",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19601102,
+            "language": null,
+            "last_commit": "2024-05-11T01:21:06Z",
+            "owner": "ahmdrefat",
+            "repo": "awesome-koans",
+            "stars": 460
+          }
+        }
+      ],
+      "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:03:00.315Z",
+    "last_updated": "2026-08-24T14:37:55.485Z",
     "original_repository": "b0o/awesome-by-example",
     "original_repository_id": 338645385,
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
