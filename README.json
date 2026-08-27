@@ -209,7 +209,7 @@
                 "last_commit": "2026-08-17T11:05:26Z",
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35292
+                "stars": 35293
               }
             },
             {
@@ -224,7 +224,7 @@
                 "last_commit": "2026-08-26T05:51:10Z",
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24403
+                "stars": 24402
               }
             },
             {
@@ -313,7 +313,7 @@
                 "last_commit": "2026-08-24T21:17:41Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63962
+                "stars": 63965
               }
             },
             {
@@ -432,7 +432,7 @@
                 "last_commit": "2024-09-03T22:08:21Z",
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1873
+                "stars": 1874
               }
             },
             {
@@ -760,7 +760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:44.898Z",
+    "last_updated": "2026-08-27T15:16:32.521Z",
     "original_repository_info": {
       "archived": false,
       "id": 338645385,
