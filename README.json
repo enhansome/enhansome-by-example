@@ -209,7 +209,7 @@
                 "last_commit": "2026-08-17T11:05:26Z",
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35285
+                "stars": 35292
               }
             },
             {
@@ -221,10 +221,10 @@
                 "archived": false,
                 "id": 83516498,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T04:37:08Z",
+                "last_commit": "2026-08-26T05:51:10Z",
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24402
+                "stars": 24403
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-04-06T16:03:15Z",
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18224
+                "stars": 18226
               }
             },
             {
@@ -254,7 +254,7 @@
                 "last_commit": "2024-08-18T20:33:41Z",
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5114
+                "stars": 5113
               }
             }
           ],
@@ -313,7 +313,7 @@
                 "last_commit": "2026-08-24T21:17:41Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63952
+                "stars": 63962
               }
             },
             {
@@ -328,7 +328,7 @@
                 "last_commit": "2026-07-06T10:14:39Z",
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8092
+                "stars": 8094
               }
             }
           ],
@@ -638,7 +638,7 @@
             "last_commit": "2026-07-29T23:20:44Z",
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1883
+            "stars": 1884
           }
         },
         {
@@ -689,7 +689,7 @@
             "last_commit": "2025-06-02T03:22:25Z",
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5971
+            "stars": 5972
           }
         }
       ],
@@ -710,7 +710,7 @@
             "last_commit": "2026-07-30T15:21:47Z",
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5236
+            "stars": 5238
           }
         }
       ],
@@ -760,9 +760,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:57:19.223Z",
-    "original_repository": "b0o/awesome-by-example",
-    "original_repository_id": 338645385,
+    "last_updated": "2026-08-27T11:33:44.898Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 338645385,
+      "language": null,
+      "last_commit": "2025-12-25T00:22:58Z",
+      "owner": "b0o",
+      "repo": "awesome-by-example",
+      "stars": 152
+    },
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
     "enhanced_repository": "enhansome/enhansome-by-example",
     "enhanced_repository_description": null,
