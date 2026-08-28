@@ -18,7 +18,8 @@
                 "owner": "KazeTachinuu",
                 "repo": "asmlings",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
                 "stars": 3800
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "sritchie",
                 "repo": "core.logic-koans",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -77,7 +80,8 @@
                 "owner": "evancz",
                 "repo": "elm-todomvc",
                 "stars": 1215
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "robertjlooby",
                 "repo": "elm-koans",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -114,7 +119,8 @@
                 "owner": "cdarwin",
                 "repo": "go-koans",
                 "stars": 2065
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -136,7 +142,8 @@
                 "owner": "matyb",
                 "repo": "java-koans",
                 "stars": 739
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -151,7 +158,8 @@
                 "owner": "jimwebber",
                 "repo": "neo4j-tutorial",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -173,7 +181,8 @@
                 "owner": "mrdavidlaing",
                 "repo": "javascript-koans",
                 "stars": 2418
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -188,7 +197,8 @@
                 "owner": "liammclennan",
                 "repo": "JavaScript-Koans",
                 "stars": 1383
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -209,8 +219,9 @@
                 "last_commit": "2026-08-17T11:05:26Z",
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35293
-              }
+                "stars": 35298
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -221,11 +232,12 @@
                 "archived": false,
                 "id": 83516498,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T05:51:10Z",
+                "last_commit": "2026-08-28T01:30:25Z",
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24402
-              }
+                "stars": 24403
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -239,8 +251,9 @@
                 "last_commit": "2026-04-06T16:03:15Z",
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18226
-              }
+                "stars": 18231
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -254,8 +267,9 @@
                 "last_commit": "2024-08-18T20:33:41Z",
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5113
-              }
+                "stars": 5114
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -277,7 +291,8 @@
                 "owner": "edgecase",
                 "repo": "ruby_koans",
                 "stars": 826
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -292,7 +307,8 @@
                 "owner": "sathish316",
                 "repo": "metaprogramming_koans",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -313,8 +329,9 @@
                 "last_commit": "2026-08-24T21:17:41Z",
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63965
-              }
+                "stars": 63978
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -329,7 +346,8 @@
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
                 "stars": 8094
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -351,7 +369,8 @@
                 "owner": "jaceklaskowski",
                 "repo": "scalania",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -372,8 +391,9 @@
                 "last_commit": "2024-08-21T07:12:29Z",
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4669
-              }
+                "stars": 4668
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -388,7 +408,8 @@
                 "owner": "google",
                 "repo": "lisp-koans",
                 "stars": 3193
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -403,7 +424,8 @@
                 "owner": "seven1m",
                 "repo": "30-days-of-elixir",
                 "stars": 3067
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -418,7 +440,8 @@
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
                 "stars": 3004
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -433,7 +456,8 @@
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
                 "stars": 1874
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -447,8 +471,9 @@
                 "last_commit": "2024-02-22T15:38:45Z",
                 "owner": "ChrisMarinos",
                 "repo": "FSharpKoans",
-                "stars": 1319
-              }
+                "stars": 1320
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -463,7 +488,8 @@
                 "owner": "tonymorris",
                 "repo": "fp-course",
                 "stars": 1030
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -478,7 +504,8 @@
                 "owner": "sleepyfox",
                 "repo": "coffeescript-koans",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -493,7 +520,8 @@
                 "owner": "kikito",
                 "repo": "lua_missions",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -508,7 +536,8 @@
                 "owner": "patrickgombert",
                 "repo": "erlang-koans",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -523,7 +552,8 @@
                 "owner": "v-community",
                 "repo": "v_by_example",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -538,7 +568,8 @@
                 "owner": "sl4m",
                 "repo": "gnu_smalltalk_koans",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -553,7 +584,8 @@
                 "owner": "forcedotcom",
                 "repo": "PerlKoans",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -568,7 +600,8 @@
                 "owner": "butlermatt",
                 "repo": "dart_koans",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -583,7 +616,8 @@
                 "owner": "deepakshrma",
                 "repo": "deno-by-example",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             },
             {
               "node_type": "item",
@@ -598,7 +632,8 @@
                 "owner": "ilmanzo",
                 "repo": "DLangKoans",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
             }
           ],
           "description": null,
@@ -624,7 +659,8 @@
             "owner": "arkency",
             "repo": "reactjs_koans",
             "stars": 3214
-          }
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         },
         {
           "node_type": "item",
@@ -638,8 +674,9 @@
             "last_commit": "2026-07-29T23:20:44Z",
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1884
-          }
+            "stars": 1885
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         },
         {
           "node_type": "item",
@@ -654,7 +691,8 @@
             "owner": "michaelmendoza",
             "repo": "learning-tensorflow",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         },
         {
           "node_type": "item",
@@ -669,7 +707,8 @@
             "owner": "jstrieb",
             "repo": "quickserv-examples",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         }
       ],
       "title": "Libraries and Frameworks"
@@ -689,8 +728,9 @@
             "last_commit": "2025-06-02T03:22:25Z",
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5972
-          }
+            "stars": 5973
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         }
       ],
       "title": "Tools"
@@ -710,8 +750,9 @@
             "last_commit": "2026-07-30T15:21:47Z",
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5238
-          }
+            "stars": 5237
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         }
       ],
       "title": "SaaS and APIs"
@@ -732,7 +773,8 @@
             "owner": "ahmdrefat",
             "repo": "awesome-koans",
             "stars": 460
-          }
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         }
       ],
       "title": "Related"
@@ -753,14 +795,15 @@
             "owner": "ahmdrefat",
             "repo": "awesome-koans",
             "stars": 460
-          }
+          },
+          "first_seen": "2026-08-28T16:40:46.810Z"
         }
       ],
       "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:16:32.521Z",
+    "last_updated": "2026-08-28T16:40:46.810Z",
     "original_repository_info": {
       "archived": false,
       "id": 338645385,
