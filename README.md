@@ -69,9 +69,9 @@
 ### Python
 
 * [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,298 | 🐛 503 | 🌐 Python | 📅 2026-08-17
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,403 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-08-28
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,231 | 🐛 43 | 🌐 Python | 📅 2026-04-06
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,114 | 🐛 27 | 🌐 Python | 📅 2024-08-18
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,404 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-08-28
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,230 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,113 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
@@ -80,7 +80,7 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 63,978 | 🐛 34 | 🌐 Rust | 📅 2026-08-24
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 63,986 | 🐛 34 | 🌐 Rust | 📅 2026-08-24
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,094 | 🐛 82 | 🌐 Handlebars | 📅 2026-07-06
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -96,7 +96,7 @@
 * [30 Days of Elixir: A walk through the Elixir language in 30 exercises](https://github.com/seven1m/30-days-of-elixir) ⭐ 3,067 | 🐛 0 | 🌐 Elixir | 📅 2022-04-13
 * [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises) ⭐ 3,004 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
 * [PSKoans: A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing](https://github.com/vexx32/PSKoans) ⭐ 1,874 | 🐛 53 | 🌐 PowerShell | 📅 2024-09-03
-* [FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing](https://github.com/ChrisMarinos/FSharpKoans) ⭐ 1,320 | 🐛 14 | 🌐 F# | 📅 2024-02-22
+* [FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing](https://github.com/ChrisMarinos/FSharpKoans) ⭐ 1,321 | 🐛 14 | 🌐 F# | 📅 2024-02-22
 * [FP Course: Learn Functional Programming concepts with the Haskell programming language](https://github.com/tonymorris/course) ⭐ 1,030 | 🐛 18 | 🌐 Haskell | 📅 2023-03-06
 * [Coffeescript Koans: learn CoffeeScript by doing it](https://github.com/sleepyfox/coffeescript-koans) ⭐ 446 | 🐛 1 | 🌐 CoffeeScript | 📅 2016-08-29
 * [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions) ⭐ 396 | 🐛 4 | 🌐 Lua | 📅 2024-06-08
@@ -132,7 +132,7 @@
 
 ## SaaS and APIs
 
-* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,237 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
+* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,238 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
 
 ## General Resources
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn x86-64 assembly by fixing small programs. Inspired by rustlings.",
+                "homepage": null,
                 "id": 1121904943,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2026-06-02T09:44:53Z",
+                "open_issues": 0,
                 "owner": "KazeTachinuu",
                 "repo": "asmlings",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "asm",
+                  "assembly",
+                  "atandt",
+                  "intel",
+                  "rustlings",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -35,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of exercises for learning Clojure",
+                "homepage": null,
                 "id": 1046208,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2024-05-28T20:23:52Z",
+                "open_issues": 9,
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3800
+                "stars": 3800,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -51,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn core.logic with koans!",
+                "homepage": "https://github.com/clojure/core.logic",
                 "id": 2877577,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2011-12-07T05:00:20Z",
+                "open_issues": 1,
                 "owner": "sritchie",
                 "repo": "core.logic-koans",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -74,12 +96,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The TodoMVC app written in Elm, nice example for beginners.",
+                "homepage": "http://evancz.github.io/elm-todomvc/",
                 "id": 21899109,
                 "language": "Elm",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-01-07T21:49:33Z",
+                "open_issues": 13,
                 "owner": "evancz",
                 "repo": "elm-todomvc",
-                "stars": 1215
+                "stars": 1215,
+                "topics": [
+                  "elm",
+                  "example"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -90,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of koans for learning Elm",
+                "homepage": null,
                 "id": 30055061,
                 "language": "Elm",
+                "license": "MIT",
                 "last_commit": "2019-11-08T12:32:58Z",
+                "open_issues": 0,
                 "owner": "robertjlooby",
                 "repo": "elm-koans",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -113,12 +148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "koans for go",
+                "homepage": null,
                 "id": 4152573,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-03-26T14:47:42Z",
+                "open_issues": 7,
                 "owner": "cdarwin",
                 "repo": "go-koans",
-                "stars": 2065
+                "stars": 2065,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -136,12 +176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework and lessons to learn java syntax and idioms in a logical sequence.",
+                "homepage": null,
                 "id": 1251856,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-18T01:54:07Z",
+                "open_issues": 10,
                 "owner": "matyb",
                 "repo": "java-koans",
-                "stars": 739
+                "stars": 739,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -152,12 +197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A koan-style tutorial in Java for Neo4j",
+                "homepage": null,
                 "id": 1225993,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-03-26T13:59:39Z",
+                "open_issues": 10,
                 "owner": "jimwebber",
                 "repo": "neo4j-tutorial",
-                "stars": 315
+                "stars": 315,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -175,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koans to learn Javascript",
+                "homepage": null,
                 "id": 1056938,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-28T06:21:46Z",
+                "open_issues": 83,
                 "owner": "mrdavidlaing",
                 "repo": "javascript-koans",
-                "stars": 2418
+                "stars": 2418,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -191,12 +246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "javascript koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence. ",
+                "homepage": null,
                 "id": 1008138,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-03T07:00:59Z",
+                "open_issues": 20,
                 "owner": "liammclennan",
                 "repo": "JavaScript-Koans",
-                "stars": 1383
+                "stars": 1383,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -214,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Python Examples",
+                "homepage": "http://www.thegeekblog.co.uk",
                 "id": 2881789,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T11:05:26Z",
+                "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35298
+                "stars": 35298,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -230,12 +295,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+                "homepage": null,
                 "id": 83516498,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:30:25Z",
+                "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24403
+                "stars": 24404,
+                "topics": [
+                  "demonstrate-skills",
+                  "practice",
+                  "programming",
+                  "python",
+                  "python-3"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -246,12 +322,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+                "homepage": null,
                 "id": 146619556,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-06T16:03:15Z",
+                "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18231
+                "stars": 18230,
+                "topics": [
+                  "learning",
+                  "learning-by-doing",
+                  "learning-python",
+                  "programming-language",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -262,12 +350,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Koans - Learn Python through TDD",
+                "homepage": null,
                 "id": 541456,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-18T20:33:41Z",
+                "open_issues": 27,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5114
+                "stars": 5113,
+                "topics": [
+                  "koans",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -285,12 +381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn Ruby with the Edgecase Ruby Koans",
+                "homepage": "rubykoans.com",
                 "id": 9154962,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-03-21T13:23:20Z",
+                "open_issues": 6,
                 "owner": "edgecase",
                 "repo": "ruby_koans",
-                "stars": 826
+                "stars": 826,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -301,12 +402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans).",
+                "homepage": "http://rubymetakoans.heroku.com/",
                 "id": 2283135,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2018-03-09T21:16:41Z",
+                "open_issues": 2,
                 "owner": "sathish316",
                 "repo": "metaprogramming_koans",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -324,12 +430,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
+                "homepage": "https://rustlings.rust-lang.org",
                 "id": 42489829,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T21:17:41Z",
+                "open_issues": 34,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63978
+                "stars": 63986,
+                "topics": [
+                  "beginner-friendly",
+                  "exercises",
+                  "rust",
+                  "rustlings"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -340,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn Rust with examples (Live code editor included)",
+                "homepage": "https://doc.rust-lang.org/stable/rust-by-example/",
                 "id": 19126114,
                 "language": "Handlebars",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T10:14:39Z",
+                "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8094
+                "stars": 8094,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -363,12 +484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn Scala by examples",
+                "homepage": " http://jaceklaskowski.github.io/scalania",
                 "id": 11070903,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2018-03-29T09:52:15Z",
+                "open_issues": 7,
                 "owner": "jaceklaskowski",
                 "repo": "scalania",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -386,12 +512,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn the Zig programming language by fixing tiny broken programs.",
+                "homepage": null,
                 "id": 326460518,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-08-21T07:12:29Z",
+                "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4668
+                "stars": 4668,
+                "topics": [
+                  "beginner-friendly",
+                  "educational",
+                  "exercises",
+                  "learning-by-doing",
+                  "zig",
+                  "ziglang"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -402,12 +540,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. ",
+                "homepage": null,
                 "id": 10070738,
                 "language": "Common Lisp",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-14T13:37:55Z",
+                "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3193
+                "stars": 3193,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -418,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A walk through the Elixir language in 30 exercises.",
+                "homepage": null,
                 "id": 15067924,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2022-04-13T18:14:27Z",
+                "open_issues": 0,
                 "owner": "seven1m",
                 "repo": "30-days-of-elixir",
-                "stars": 3067
+                "stars": 3067,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -434,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of interactive TypeScript exercises",
+                "homepage": "https://typescript-exercises.github.io",
                 "id": 259954158,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-29T12:34:31Z",
+                "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3004
+                "stars": 3004,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -450,12 +603,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.",
+                "homepage": null,
                 "id": 139899094,
                 "language": "PowerShell",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-03T22:08:21Z",
+                "open_issues": 53,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1874
+                "stars": 1874,
+                "topics": [
+                  "hacktoberfest",
+                  "koans",
+                  "pester",
+                  "powershell",
+                  "powershell-module"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -466,12 +630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, fun, and interactive way to learn the F# language through testing.",
+                "homepage": null,
                 "id": 1542281,
                 "language": "F#",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-22T15:38:45Z",
+                "open_issues": 14,
                 "owner": "ChrisMarinos",
                 "repo": "FSharpKoans",
-                "stars": 1320
+                "stars": 1321,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -482,12 +651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional Programming Course",
+                "homepage": null,
                 "id": 1977846,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2023-03-06T02:28:36Z",
+                "open_issues": 18,
                 "owner": "tonymorris",
                 "repo": "fp-course",
-                "stars": 1030
+                "stars": 1030,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -498,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koans: learn CoffeeScript by doing it",
+                "homepage": null,
                 "id": 2229508,
                 "language": "CoffeeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2016-08-29T16:21:54Z",
+                "open_issues": 1,
                 "owner": "sleepyfox",
                 "repo": "coffeescript-koans",
-                "stars": 446
+                "stars": 446,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -514,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua Koans, minus the Zen stuff",
+                "homepage": "https://github.com/kikito/lua_missions",
                 "id": 1834518,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-06-08T17:54:21Z",
+                "open_issues": 4,
                 "owner": "kikito",
                 "repo": "lua_missions",
-                "stars": 396
+                "stars": 396,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -530,12 +714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Erlang Koans",
+                "homepage": null,
                 "id": 7476194,
                 "language": "Erlang",
+                "license": "NOASSERTION",
                 "last_commit": "2020-03-31T00:58:45Z",
+                "open_issues": 0,
                 "owner": "patrickgombert",
                 "repo": "erlang-koans",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -546,12 +735,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn V by Example",
+                "homepage": "https://v-community.gitbook.io/v-by-example/",
                 "id": 209484496,
                 "language": "V",
+                "license": "MIT",
                 "last_commit": "2022-11-28T18:41:12Z",
+                "open_issues": 34,
                 "owner": "v-community",
                 "repo": "v_by_example",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "educational",
+                  "hacktoberfest",
+                  "learning",
+                  "lessons",
+                  "programming",
+                  "v",
+                  "vlang"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -562,12 +764,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of tests to teach you Smalltalk",
+                "homepage": "https://sl4m.github.io/gnu_smalltalk_koans/",
                 "id": 1124623,
                 "language": "Smalltalk",
+                "license": null,
                 "last_commit": "2020-06-19T00:19:31Z",
+                "open_issues": 0,
                 "owner": "sl4m",
                 "repo": "gnu_smalltalk_koans",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "koans",
+                  "learn-a-new-language",
+                  "smalltalk"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -578,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 4602889,
                 "language": "Perl",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-02-12T08:34:21Z",
+                "open_issues": 12,
                 "owner": "forcedotcom",
                 "repo": "PerlKoans",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -594,12 +810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dart Koans. Achieve enlightenment through failure.",
+                "homepage": null,
                 "id": 5905748,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2020-04-28T21:52:40Z",
+                "open_issues": 1,
                 "owner": "butlermatt",
                 "repo": "dart_koans",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -610,12 +831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorial: Learn Web Programming in Deno by Examples",
+                "homepage": "https://deepakshrma.github.io/deno-by-example/",
                 "id": 265246097,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-13T16:00:41Z",
+                "open_issues": 10,
                 "owner": "deepakshrma",
                 "repo": "deno-by-example",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -626,12 +852,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "D Programming Language Koans. Inspired from RubyKoans, CppKoans, GoKoans; an educational unit test suite for the D Programming Language",
+                "homepage": null,
                 "id": 25178675,
                 "language": "D",
+                "license": null,
                 "last_commit": "2025-05-22T14:22:46Z",
+                "open_issues": 0,
                 "owner": "ilmanzo",
                 "repo": "DLangKoans",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "d",
+                  "dub",
+                  "hacktoberfest",
+                  "programming-language-koans"
+                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             }
@@ -653,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn basics of React.js making the tests pass",
+            "homepage": null,
             "id": 34921511,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-08T07:42:24Z",
+            "open_issues": 14,
             "owner": "arkency",
             "repo": "reactjs_koans",
-            "stars": 3214
+            "stars": 3214,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         },
@@ -669,12 +910,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gallery of OSMnx tutorials, usage examples, and feature demonstrations.",
+            "homepage": "https://osmnx.readthedocs.io",
             "id": 98002088,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-29T23:20:44Z",
+            "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1885
+            "stars": 1885,
+            "topics": [
+              "accessibility",
+              "binder",
+              "cities",
+              "city",
+              "jupyter-notebook",
+              "network-analysis",
+              "notebooks",
+              "openstreetmap",
+              "public-transport",
+              "python",
+              "street-networks",
+              "transit",
+              "transport",
+              "transportation",
+              "urban-analytics",
+              "urban-data-science",
+              "urban-design",
+              "urban-planning"
+            ]
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         },
@@ -685,12 +950,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Tensorflow tutorials for learning by example",
+            "homepage": null,
             "id": 110883053,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-08-04T16:48:17Z",
+            "open_issues": 0,
             "owner": "michaelmendoza",
             "repo": "learning-tensorflow",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "cifar10",
+              "convolutional-networks",
+              "deep-learning",
+              "example",
+              "fft",
+              "fourier-transform",
+              "keras",
+              "keras-tensorflow",
+              "keras-tutorials",
+              "learning-algorithms",
+              "learning-tensorflow",
+              "mnist-classification",
+              "neural-network",
+              "python",
+              "segmentation",
+              "tensorflow",
+              "tensorflow-tutorial",
+              "tensorflow2",
+              "tutorial",
+              "unet"
+            ]
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         },
@@ -701,12 +992,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example applications to run with QuickServ",
+            "homepage": "https://github.com/jstrieb/quickserv",
             "id": 410715167,
             "language": "C",
+            "license": null,
             "last_commit": "2022-11-02T00:33:26Z",
+            "open_issues": 0,
             "owner": "jstrieb",
             "repo": "quickserv-examples",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         }
@@ -723,12 +1019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn make by example",
+            "homepage": "http://makefiletutorial.com",
             "id": 26828574,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2025-06-02T03:22:25Z",
+            "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5973
+            "stars": 5973,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         }
@@ -745,12 +1046,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apps Script samples for Google Workspace products.",
+            "homepage": "https://developers.google.com/apps-script",
             "id": 10655461,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T15:21:47Z",
+            "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5237
+            "stars": 5238,
+            "topics": [
+              "adminsdk",
+              "apps-script",
+              "calendar",
+              "classroom",
+              "cloud",
+              "drive",
+              "google-apps-script",
+              "google-workspace",
+              "gsuite",
+              "samples"
+            ]
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         }
@@ -767,12 +1084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of all available kōans",
+            "homepage": null,
             "id": 19601102,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-11T01:21:06Z",
+            "open_issues": 4,
             "owner": "ahmdrefat",
             "repo": "awesome-koans",
-            "stars": 460
+            "stars": 460,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         }
@@ -789,12 +1111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of all available kōans",
+            "homepage": null,
             "id": 19601102,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-11T01:21:06Z",
+            "open_issues": 4,
             "owner": "ahmdrefat",
             "repo": "awesome-koans",
-            "stars": 460
+            "stars": 460,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
         }
@@ -803,15 +1130,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:40:46.810Z",
+    "last_updated": "2026-08-29T04:53:48.103Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of example-based learning resources.",
+      "homepage": null,
       "id": 338645385,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2025-12-25T00:22:58Z",
+      "open_issues": 1,
       "owner": "b0o",
       "repo": "awesome-by-example",
-      "stars": 152
+      "stars": 152,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "learn-by-example",
+        "learn-to-code",
+        "learning",
+        "learning-by-doing",
+        "learning-exercise"
+      ]
     },
     "original_repository_sha": "5a7b5948b1fa2f52e0cfdde0694625fd542d1386",
     "enhanced_repository": "enhansome/enhansome-by-example",
