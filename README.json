@@ -283,7 +283,7 @@
                 "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35298,
+                "stars": 35297,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18230,
+                "stars": 18231,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 34,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63986,
+                "stars": 63990,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8094,
+                "stars": 8095,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -639,7 +639,7 @@
                 "open_issues": 14,
                 "owner": "ChrisMarinos",
                 "repo": "FSharpKoans",
-                "stars": 1321,
+                "stars": 1320,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5973,
+            "stars": 5972,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:53:48.103Z",
+    "last_updated": "2026-08-29T11:07:29.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
