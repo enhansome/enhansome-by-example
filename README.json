@@ -283,7 +283,7 @@
                 "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35297,
+                "stars": 35301,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18231,
+                "stars": 18236,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -435,11 +435,11 @@
                 "id": 42489829,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-24T21:17:41Z",
-                "open_issues": 34,
+                "last_commit": "2026-08-30T07:00:57Z",
+                "open_issues": 32,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 63990,
+                "stars": 64005,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8095,
+                "stars": 8096,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1885,
+            "stars": 1886,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5972,
+            "stars": 5974,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:07:29.485Z",
+    "last_updated": "2026-08-30T09:57:27.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
