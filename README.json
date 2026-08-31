@@ -283,7 +283,7 @@
                 "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35301,
+                "stars": 35300,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24404,
+                "stars": 24406,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18236,
+                "stars": 18238,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -390,7 +390,7 @@
                 "open_issues": 6,
                 "owner": "edgecase",
                 "repo": "ruby_koans",
-                "stars": 826,
+                "stars": 825,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -439,7 +439,7 @@
                 "open_issues": 32,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64005,
+                "stars": 64012,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8096,
+                "stars": 8098,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4668,
+                "stars": 4669,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3004,
+                "stars": 3005,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1886,
+            "stars": 1885,
             "topics": [
               "accessibility",
               "binder",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:57:27.385Z",
+    "last_updated": "2026-08-31T10:53:23.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
