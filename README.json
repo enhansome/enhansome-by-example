@@ -56,7 +56,7 @@
                 "open_issues": 9,
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3800,
+                "stars": 3801,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -279,11 +279,11 @@
                 "id": 2881789,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-17T11:05:26Z",
+                "last_commit": "2026-08-31T19:47:57Z",
                 "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35300,
+                "stars": 35303,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -300,11 +300,11 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-28T01:30:25Z",
+                "last_commit": "2026-09-01T00:23:15Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24406,
+                "stars": 24407,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18238,
+                "stars": 18246,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 27,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5113,
+                "stars": 5114,
                 "topics": [
                   "koans",
                   "python"
@@ -436,10 +436,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-30T07:00:57Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64012,
+                "stars": 64021,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:53:23.401Z",
+    "last_updated": "2026-09-01T09:25:40.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",

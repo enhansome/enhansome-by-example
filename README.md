@@ -34,7 +34,7 @@
 
 ### Clojure
 
-* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,800 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
+* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,801 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
 * [Core.logic Koans: Learn core.logic with koans!](https://github.com/sritchie/core.logic-koans) ⭐ 57 | 🐛 1 | 🌐 Clojure | 📅 2011-12-07
 * [4clojure: 4Clojure is a resource to help fledgling clojurians learn the language through interactive problems](https://www.4clojure.com/)
 * [Clojure Koans: Clojure koans are exercises meant to initiate you to the mysteries of the Clojure language](http://clojurekoans.com/)
@@ -68,10 +68,10 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,300 | 🐛 503 | 🌐 Python | 📅 2026-08-17
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,406 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-08-28
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,238 | 🐛 43 | 🌐 Python | 📅 2026-04-06
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,113 | 🐛 27 | 🌐 Python | 📅 2024-08-18
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,303 | 🐛 503 | 🌐 Python | 📅 2026-08-31
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,407 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-01
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,246 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,114 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
@@ -80,7 +80,7 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,012 | 🐛 32 | 🌐 Rust | 📅 2026-08-30
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,021 | 🐛 33 | 🌐 Rust | 📅 2026-08-30
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,098 | 🐛 82 | 🌐 Handlebars | 📅 2026-07-06
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
