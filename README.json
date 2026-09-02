@@ -283,7 +283,7 @@
                 "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35303,
+                "stars": 35306,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24407,
+                "stars": 24408,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18246,
+                "stars": 18251,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 33,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64021,
+                "stars": 64026,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -549,7 +549,7 @@
                 "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3193,
+                "stars": 3194,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -915,11 +915,11 @@
             "id": 98002088,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-07-29T23:20:44Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-01T21:49:19Z",
+            "open_issues": 1,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1885,
+            "stars": 1886,
             "topics": [
               "accessibility",
               "binder",
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5238,
+            "stars": 5237,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:25:40.592Z",
+    "last_updated": "2026-09-02T08:48:03.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
