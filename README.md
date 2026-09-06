@@ -42,7 +42,7 @@
 
 ### Elm
 
-* [Elm-TodoMVC: The TodoMVC app written in Elm, nice example for beginners](https://github.com/evancz/elm-todomvc) ⭐ 1,215 | 🐛 13 | 🌐 Elm | 📅 2020-01-07
+* [Elm-TodoMVC: The TodoMVC app written in Elm, nice example for beginners](https://github.com/evancz/elm-todomvc) ⭐ 1,214 | 🐛 13 | 🌐 Elm | 📅 2020-01-07
 * [Elm Koans: A set of koans for learning Elm](https://github.com/robertjlooby/elm-koans) ⭐ 238 | 🐛 0 | 🌐 Elm | 📅 2019-11-08
 
 ### Go
@@ -68,9 +68,9 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,321 | 🐛 503 | 🌐 Python | 📅 2026-08-31
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,320 | 🐛 503 | 🌐 Python | 📅 2026-08-31
 * [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,407 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-04
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,256 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,263 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,115 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
@@ -80,8 +80,8 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,042 | 🐛 33 | 🌐 Rust | 📅 2026-08-30
-* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,100 | 🐛 82 | 🌐 Handlebars | 📅 2026-07-06
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,049 | 🐛 34 | 🌐 Rust | 📅 2026-08-30
+* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,102 | 🐛 83 | 🌐 Handlebars | 📅 2026-07-06
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Scala
@@ -106,7 +106,7 @@
 * [Perl Koans: A framework to learn-by-doing for Perl, with a heavy emphasis on testing](https://github.com/forcedotcom/PerlKoans) ⚠️ Archived
 * [Dart Koans: Achieve enlightenment through failure](https://github.com/butlermatt/dart_koans) ⭐ 43 | 🐛 1 | 🌐 Dart | 📅 2020-04-28
 * [Deno by Example: Learn Web Programming in Deno by Examples](https://github.com/deepakshrma/deno-by-example) ⭐ 26 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-13
-* [DLangKoans: An educational unit test suite for the D Programming Language](https://github.com/ilmanzo/DLangKoans) ⭐ 24 | 🐛 0 | 🌐 D | 📅 2025-05-22
+* [DLangKoans: An educational unit test suite for the D Programming Language](https://github.com/ilmanzo/DLangKoans) ⭐ 24 | 🐛 0 | 🌐 D | 📅 2026-09-05
 * [APLcart: Find your way in APL](https://aplcart.info/)
 * [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 * [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
@@ -125,7 +125,7 @@
 
 ## Tools
 
-* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,975 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
+* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,976 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
 * [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
 * [Kubernetes for kids](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

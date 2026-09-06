@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "evancz",
                 "repo": "elm-todomvc",
-                "stars": 1215,
+                "stars": 1214,
                 "topics": [
                   "elm",
                   "example"
@@ -283,7 +283,7 @@
                 "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35321,
+                "stars": 35320,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18256,
+                "stars": 18263,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -436,10 +436,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-30T07:00:57Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64042,
+                "stars": 64049,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -462,10 +462,10 @@
                 "language": "Handlebars",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-06T10:14:39Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8100,
+                "stars": 8102,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -857,7 +857,7 @@
                 "id": 25178675,
                 "language": "D",
                 "license": null,
-                "last_commit": "2025-05-22T14:22:46Z",
+                "last_commit": "2026-09-05T14:20:00Z",
                 "open_issues": 0,
                 "owner": "ilmanzo",
                 "repo": "DLangKoans",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5975,
+            "stars": 5976,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:22:18.842Z",
+    "last_updated": "2026-09-06T08:41:10.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
@@ -1142,7 +1142,7 @@
       "open_issues": 1,
       "owner": "b0o",
       "repo": "awesome-by-example",
-      "stars": 152,
+      "stars": 153,
       "topics": [
         "awesome",
         "awesome-list",
