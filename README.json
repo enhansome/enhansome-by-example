@@ -157,7 +157,7 @@
                 "open_issues": 7,
                 "owner": "cdarwin",
                 "repo": "go-koans",
-                "stars": 2065,
+                "stars": 2066,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24407,
+                "stars": 24408,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18263,
+                "stars": 18269,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 27,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5115,
+                "stars": 5114,
                 "topics": [
                   "koans",
                   "python"
@@ -390,7 +390,7 @@
                 "open_issues": 6,
                 "owner": "edgecase",
                 "repo": "ruby_koans",
-                "stars": 825,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -439,7 +439,7 @@
                 "open_issues": 34,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64049,
+                "stars": 64061,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4670,
+                "stars": 4671,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -549,7 +549,7 @@
                 "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3194,
+                "stars": 3193,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5976,
+            "stars": 5977,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:41:10.841Z",
+    "last_updated": "2026-09-07T09:23:04.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",

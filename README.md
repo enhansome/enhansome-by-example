@@ -47,7 +47,7 @@
 
 ### Go
 
-* [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans) ⭐ 2,065 | 🐛 7 | 🌐 Go | 📅 2022-03-26
+* [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans) ⭐ 2,066 | 🐛 7 | 🌐 Go | 📅 2022-03-26
 * [Go by Example: A hands-on introduction to Go using annotated example programs](https://gobyexample.com/)
 
 ### Haskell
@@ -69,18 +69,18 @@
 ### Python
 
 * [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,320 | 🐛 503 | 🌐 Python | 📅 2026-08-31
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,407 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-04
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,263 | 🐛 43 | 🌐 Python | 📅 2026-04-06
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,115 | 🐛 27 | 🌐 Python | 📅 2024-08-18
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,408 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-04
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,269 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,114 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
-* [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](https://github.com/edgecase/ruby_koans) ⭐ 825 | 🐛 6 | 🌐 Ruby | 📅 2026-03-21
+* [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](https://github.com/edgecase/ruby_koans) ⭐ 824 | 🐛 6 | 🌐 Ruby | 📅 2026-03-21
 * [Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans)](https://github.com/sathish316/metaprogramming_koans) ⭐ 66 | 🐛 2 | 🌐 Ruby | 📅 2018-03-09
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,049 | 🐛 34 | 🌐 Rust | 📅 2026-08-30
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,061 | 🐛 34 | 🌐 Rust | 📅 2026-08-30
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,102 | 🐛 83 | 🌐 Handlebars | 📅 2026-07-06
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -91,7 +91,7 @@
 
 ### Other Languages
 
-* [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings) ⭐ 4,670 | 🐛 2 | 📅 2024-08-21
+* [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings) ⭐ 4,671 | 🐛 2 | 📅 2024-08-21
 * [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans) ⚠️ Archived
 * [30 Days of Elixir: A walk through the Elixir language in 30 exercises](https://github.com/seven1m/30-days-of-elixir) ⭐ 3,066 | 🐛 0 | 🌐 Elixir | 📅 2022-04-13
 * [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises) ⭐ 3,005 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
@@ -125,7 +125,7 @@
 
 ## Tools
 
-* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,976 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
+* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 5,977 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
 * [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
 * [Kubernetes for kids](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
