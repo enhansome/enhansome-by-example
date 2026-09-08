@@ -283,7 +283,7 @@
                 "open_issues": 503,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35320,
+                "stars": 35321,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24408,
+                "stars": 24410,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18269,
+                "stars": 18273,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 34,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64061,
+                "stars": 64087,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5235,
+            "stars": 5236,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:23:04.767Z",
+    "last_updated": "2026-09-08T08:53:19.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",

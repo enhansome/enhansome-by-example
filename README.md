@@ -68,9 +68,9 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,320 | 🐛 503 | 🌐 Python | 📅 2026-08-31
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,408 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-04
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,269 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,321 | 🐛 503 | 🌐 Python | 📅 2026-08-31
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,410 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-04
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,273 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,114 | 🐛 27 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
@@ -80,7 +80,7 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,061 | 🐛 34 | 🌐 Rust | 📅 2026-08-30
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,087 | 🐛 34 | 🌐 Rust | 📅 2026-08-30
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,102 | 🐛 83 | 🌐 Handlebars | 📅 2026-07-06
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -132,7 +132,7 @@
 
 ## SaaS and APIs
 
-* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,235 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
+* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,236 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
 
 ## General Resources
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
