@@ -280,10 +280,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T19:47:57Z",
-                "open_issues": 503,
+                "open_issues": 505,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35325,
+                "stars": 35330,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18275,
+                "stars": 18278,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -436,10 +436,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-30T07:00:57Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64112,
+                "stars": 64115,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4671,
+                "stars": 4670,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -612,7 +612,7 @@
                 "open_issues": 53,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "hacktoberfest",
                   "koans",
@@ -636,7 +636,7 @@
                 "language": "F#",
                 "license": "NOASSERTION",
                 "last_commit": "2024-02-22T15:38:45Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "ChrisMarinos",
                 "repo": "FSharpKoans",
                 "stars": 1320,
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5977,
+            "stars": 5978,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:58:57.214Z",
+    "last_updated": "2026-09-10T08:58:01.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
