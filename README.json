@@ -185,7 +185,7 @@
                 "open_issues": 10,
                 "owner": "matyb",
                 "repo": "java-koans",
-                "stars": 739,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -300,7 +300,7 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-04T17:18:54Z",
+                "last_commit": "2026-09-11T14:42:02Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18281,
+                "stars": 18283,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 27,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5115,
+                "stars": 5116,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64120,
+                "stars": 64125,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4670,
+                "stars": 4672,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -612,7 +612,7 @@
                 "open_issues": 53,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1876,
+                "stars": 1875,
                 "topics": [
                   "hacktoberfest",
                   "koans",
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1889,
+            "stars": 1891,
             "topics": [
               "accessibility",
               "binder",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:56:10.591Z",
+    "last_updated": "2026-09-12T08:39:04.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
