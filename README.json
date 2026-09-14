@@ -283,7 +283,7 @@
                 "open_issues": 505,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35340,
+                "stars": 35343,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24410,
+                "stars": 24411,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18287,
+                "stars": 18288,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64134,
+                "stars": 64141,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -462,7 +462,7 @@
                 "language": "Handlebars",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-06T10:14:39Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
                 "stars": 8102,
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5236,
+            "stars": 5235,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:34:35.707Z",
+    "last_updated": "2026-09-14T09:54:11.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
