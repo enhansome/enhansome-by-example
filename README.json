@@ -56,7 +56,7 @@
                 "open_issues": 9,
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3802,
+                "stars": 3803,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -283,7 +283,7 @@
                 "open_issues": 505,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35343,
+                "stars": 35347,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -359,7 +359,7 @@
                 "open_issues": 27,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5116,
+                "stars": 5115,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64141,
+                "stars": 64149,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4672,
+                "stars": 4671,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3005,
+                "stars": 3007,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -612,7 +612,7 @@
                 "open_issues": 53,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1877,
+                "stars": 1878,
                 "topics": [
                   "hacktoberfest",
                   "koans",
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1891,
+            "stars": 1892,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5980,
+            "stars": 5982,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:54:11.186Z",
+    "last_updated": "2026-09-15T09:28:11.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
