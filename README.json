@@ -280,7 +280,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T19:47:57Z",
-                "open_issues": 505,
+                "open_issues": 504,
                 "owner": "geekcomputers",
                 "repo": "Python",
                 "stars": 35347,
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24411,
+                "stars": 24412,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18288,
+                "stars": 18290,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 27,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5115,
+                "stars": 5116,
                 "topics": [
                   "koans",
                   "python"
@@ -390,7 +390,7 @@
                 "open_issues": 6,
                 "owner": "edgecase",
                 "repo": "ruby_koans",
-                "stars": 824,
+                "stars": 825,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -439,7 +439,7 @@
                 "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64149,
+                "stars": 64155,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -461,11 +461,11 @@
                 "id": 19126114,
                 "language": "Handlebars",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-06T10:14:39Z",
-                "open_issues": 84,
+                "last_commit": "2026-09-15T14:15:08Z",
+                "open_issues": 80,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8102,
+                "stars": 8106,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3007,
+                "stars": 3008,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -609,7 +609,7 @@
                 "language": "PowerShell",
                 "license": "GPL-3.0",
                 "last_commit": "2024-09-03T22:08:21Z",
-                "open_issues": 53,
+                "open_issues": 65,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
                 "stars": 1878,
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5982,
+            "stars": 5983,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5235,
+            "stars": 5236,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:28:11.410Z",
+    "last_updated": "2026-09-16T09:19:12.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
