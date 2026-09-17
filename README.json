@@ -283,7 +283,7 @@
                 "open_issues": 504,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35347,
+                "stars": 35348,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -300,7 +300,7 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-11T14:42:02Z",
+                "last_commit": "2026-09-16T19:30:28Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18290,
+                "stars": 18292,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 35,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64155,
+                "stars": 64163,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 80,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8106,
+                "stars": 8107,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3008,
+                "stars": 3007,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -608,8 +608,8 @@
                 "id": 139899094,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2024-09-03T22:08:21Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-17T06:40:40Z",
+                "open_issues": 66,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
                 "stars": 1878,
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5983,
+            "stars": 5984,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:19:12.353Z",
+    "last_updated": "2026-09-17T09:28:03.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
