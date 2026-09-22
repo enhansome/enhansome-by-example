@@ -63,24 +63,24 @@
 
 ### JavaScript
 
-* [JavaScript Koans: Koans to learn JavaScript](https://github.com/mrdavidlaing/javascript-koans) ⭐ 2,418 | 🐛 83 | 🌐 JavaScript | 📅 2024-06-28
+* [JavaScript Koans: Koans to learn JavaScript](https://github.com/mrdavidlaing/javascript-koans) ⭐ 2,415 | 🐛 83 | 🌐 JavaScript | 📅 2024-06-28
 * [JavaScript Koans: An interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans) ⭐ 1,383 | 🐛 20 | 🌐 JavaScript | 📅 2024-02-03
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,358 | 🐛 505 | 🌐 Python | 📅 2026-08-31
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,413 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-16
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,299 | 🐛 43 | 🌐 Python | 📅 2026-04-06
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,116 | 🐛 28 | 🌐 Python | 📅 2024-08-18
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,361 | 🐛 505 | 🌐 Python | 📅 2026-08-31
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,410 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-16
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,302 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,115 | 🐛 28 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
-* [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](https://github.com/edgecase/ruby_koans) ⭐ 825 | 🐛 6 | 🌐 Ruby | 📅 2026-09-17
+* [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](https://github.com/edgecase/ruby_koans) ⭐ 825 | 🐛 7 | 🌐 Ruby | 📅 2026-09-17
 * [Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans)](https://github.com/sathish316/metaprogramming_koans) ⭐ 66 | 🐛 2 | 🌐 Ruby | 📅 2018-03-09
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,176 | 🐛 35 | 🌐 Rust | 📅 2026-08-30
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,187 | 🐛 36 | 🌐 Rust | 📅 2026-09-21
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,112 | 🐛 80 | 🌐 Handlebars | 📅 2026-09-15
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -118,8 +118,8 @@
 
 ## Libraries and Frameworks
 
-* [ReactJS Koans: Learn basics of React.js making the tests pass](https://github.com/arkency/reactjs_koans) ⭐ 3,209 | 🐛 14 | 🌐 JavaScript | 📅 2024-07-08
-* [OSMnx Examples: Usage examples, demos, and tutorials for OSMnx (OpenStreetMap)](https://github.com/gboeing/osmnx-examples) ⭐ 1,892 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-19
+* [ReactJS Koans: Learn basics of React.js making the tests pass](https://github.com/arkency/reactjs_koans) ⭐ 3,208 | 🐛 14 | 🌐 JavaScript | 📅 2024-07-08
+* [OSMnx Examples: Usage examples, demos, and tutorials for OSMnx (OpenStreetMap)](https://github.com/gboeing/osmnx-examples) ⭐ 1,891 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-19
 * [Learning TensorFlow: Simple TensorFlow tutorials for learning by example](https://github.com/michaelmendoza/learning-tensorflow) ⭐ 19 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-08-04
 * [Quickserv Examples: Example applications to run with QuickServ](https://github.com/jstrieb/quickserv-examples) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2022-11-02
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
