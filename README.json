@@ -283,7 +283,7 @@
                 "open_issues": 505,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35365,
+                "stars": 35363,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -300,7 +300,7 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-16T19:30:28Z",
+                "last_commit": "2026-09-24T06:41:15Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18303,
+                "stars": 18308,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -356,7 +356,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-08-18T20:33:41Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
                 "stars": 5116,
@@ -439,7 +439,7 @@
                 "open_issues": 37,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64195,
+                "stars": 64204,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4670,
+                "stars": 4669,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -549,7 +549,7 @@
                 "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3192,
+                "stars": 3191,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5991,
+            "stars": 5994,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:19:58.391Z",
+    "last_updated": "2026-09-24T09:19:39.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
