@@ -283,7 +283,7 @@
                 "open_issues": 505,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35363,
+                "stars": 35367,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -300,11 +300,11 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-24T06:41:15Z",
+                "last_commit": "2026-09-25T06:03:36Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24410,
+                "stars": 24409,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18308,
+                "stars": 18313,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5116,
+                "stars": 5115,
                 "topics": [
                   "koans",
                   "python"
@@ -436,10 +436,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-21T14:36:34Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64204,
+                "stars": 64214,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 81,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8112,
+                "stars": 8113,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -898,7 +898,7 @@
             "open_issues": 14,
             "owner": "arkency",
             "repo": "reactjs_koans",
-            "stars": 3208,
+            "stars": 3207,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1891,
+            "stars": 1892,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5994,
+            "stars": 5995,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5241,
+            "stars": 5243,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:19:39.201Z",
+    "last_updated": "2026-09-25T09:37:48.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
