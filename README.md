@@ -68,20 +68,20 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,377 | 🐛 505 | 🌐 Python | 📅 2026-08-31
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,409 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-25
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,313 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,380 | 🐛 505 | 🌐 Python | 📅 2026-08-31
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,407 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-09-25
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,315 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,115 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
-* [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](https://github.com/edgecase/ruby_koans) ⭐ 825 | 🐛 7 | 🌐 Ruby | 📅 2026-09-17
+* [Ruby Koans: Learn Ruby with the Edgecase Ruby Koans](https://github.com/edgecase/ruby_koans) ⭐ 824 | 🐛 7 | 🌐 Ruby | 📅 2026-09-17
 * [Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans)](https://github.com/sathish316/metaprogramming_koans) ⭐ 66 | 🐛 2 | 🌐 Ruby | 📅 2018-03-09
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,224 | 🐛 38 | 🌐 Rust | 📅 2026-09-21
-* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,114 | 🐛 81 | 🌐 Handlebars | 📅 2026-09-15
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,228 | 🐛 38 | 🌐 Rust | 📅 2026-09-21
+* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,117 | 🐛 81 | 🌐 Handlebars | 📅 2026-09-15
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Scala
@@ -132,7 +132,7 @@
 
 ## SaaS and APIs
 
-* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,243 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
+* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,242 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
 
 ## General Resources
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
