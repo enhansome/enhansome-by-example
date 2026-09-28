@@ -234,7 +234,7 @@
                 "open_issues": 83,
                 "owner": "mrdavidlaing",
                 "repo": "javascript-koans",
-                "stars": 2415,
+                "stars": 2414,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -280,10 +280,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T19:47:57Z",
-                "open_issues": 505,
+                "open_issues": 506,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35380,
+                "stars": 35385,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24407,
+                "stars": 24409,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18315,
+                "stars": 18316,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64228,
+                "stars": 64234,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -570,7 +570,7 @@
                 "open_issues": 0,
                 "owner": "seven1m",
                 "repo": "30-days-of-elixir",
-                "stars": 3066,
+                "stars": 3065,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -612,7 +612,7 @@
                 "open_issues": 51,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1878,
+                "stars": 1879,
                 "topics": [
                   "hacktoberfest",
                   "koans",
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5998,
+            "stars": 5999,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:01:35.116Z",
+    "last_updated": "2026-09-28T10:57:01.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
