@@ -283,7 +283,7 @@
                 "open_issues": 506,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35385,
+                "stars": 35389,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24408,
+                "stars": 24407,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18323,
+                "stars": 18327,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5115,
+                "stars": 5117,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 37,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64244,
+                "stars": 64254,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -461,7 +461,7 @@
                 "id": 19126114,
                 "language": "Handlebars",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T14:15:08Z",
+                "last_commit": "2026-09-29T13:34:34Z",
                 "open_issues": 81,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4670,
+                "stars": 4672,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -549,7 +549,7 @@
                 "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3191,
+                "stars": 3192,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -608,8 +608,8 @@
                 "id": 139899094,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T01:11:03Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-30T01:52:46Z",
+                "open_issues": 48,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
                 "stars": 1880,
@@ -639,7 +639,7 @@
                 "open_issues": 14,
                 "owner": "ChrisMarinos",
                 "repo": "FSharpKoans",
-                "stars": 1320,
+                "stars": 1319,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 5999,
+            "stars": 6000,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:42:39.324Z",
+    "last_updated": "2026-09-30T10:30:46.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
