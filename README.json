@@ -283,7 +283,7 @@
                 "open_issues": 506,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35389,
+                "stars": 35391,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -300,11 +300,11 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-25T06:03:36Z",
+                "last_commit": "2026-10-01T03:41:55Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24407,
+                "stars": 24408,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18327,
+                "stars": 18331,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 37,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64254,
+                "stars": 64256,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3009,
+                "stars": 3008,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -612,7 +612,7 @@
                 "open_issues": 48,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1880,
+                "stars": 1881,
                 "topics": [
                   "hacktoberfest",
                   "koans",
@@ -660,7 +660,7 @@
                 "open_issues": 18,
                 "owner": "tonymorris",
                 "repo": "fp-course",
-                "stars": 1030,
+                "stars": 1029,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6000,
+            "stars": 6001,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5240,
+            "stars": 5241,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:30:46.369Z",
+    "last_updated": "2026-10-01T10:58:38.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
@@ -1142,7 +1142,7 @@
       "open_issues": 1,
       "owner": "b0o",
       "repo": "awesome-by-example",
-      "stars": 153,
+      "stars": 152,
       "topics": [
         "awesome",
         "awesome-list",
