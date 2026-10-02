@@ -56,7 +56,7 @@
                 "open_issues": 9,
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3803,
+                "stars": 3804,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -157,7 +157,7 @@
                 "open_issues": 7,
                 "owner": "cdarwin",
                 "repo": "go-koans",
-                "stars": 2065,
+                "stars": 2064,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18331,
+                "stars": 18337,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 37,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64256,
+                "stars": 64262,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -462,10 +462,10 @@
                 "language": "Handlebars",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T13:34:34Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8119,
+                "stars": 8120,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4672,
+                "stars": 4673,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5241,
+            "stars": 5240,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:58:38.453Z",
+    "last_updated": "2026-10-02T10:31:49.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",

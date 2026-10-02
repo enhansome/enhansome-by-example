@@ -34,7 +34,7 @@
 
 ### Clojure
 
-* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,803 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
+* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,804 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
 * [Core.logic Koans: Learn core.logic with koans!](https://github.com/sritchie/core.logic-koans) ⭐ 57 | 🐛 1 | 🌐 Clojure | 📅 2011-12-07
 * [4clojure: 4Clojure is a resource to help fledgling clojurians learn the language through interactive problems](https://www.4clojure.com/)
 * [Clojure Koans: Clojure koans are exercises meant to initiate you to the mysteries of the Clojure language](http://clojurekoans.com/)
@@ -47,7 +47,7 @@
 
 ### Go
 
-* [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans) ⭐ 2,065 | 🐛 7 | 🌐 Go | 📅 2022-03-26
+* [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans) ⭐ 2,064 | 🐛 7 | 🌐 Go | 📅 2022-03-26
 * [Go by Example: A hands-on introduction to Go using annotated example programs](https://gobyexample.com/)
 
 ### Haskell
@@ -70,7 +70,7 @@
 
 * [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,391 | 🐛 506 | 🌐 Python | 📅 2026-08-31
 * [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,408 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-01
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,331 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,337 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,117 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
@@ -80,8 +80,8 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,256 | 🐛 37 | 🌐 Rust | 📅 2026-09-29
-* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,119 | 🐛 81 | 🌐 Handlebars | 📅 2026-09-29
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,262 | 🐛 37 | 🌐 Rust | 📅 2026-09-29
+* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,120 | 🐛 82 | 🌐 Handlebars | 📅 2026-09-29
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Scala
@@ -91,7 +91,7 @@
 
 ### Other Languages
 
-* [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings) ⭐ 4,672 | 🐛 2 | 📅 2024-08-21
+* [Ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings) ⭐ 4,673 | 🐛 2 | 📅 2024-08-21
 * [Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans](https://github.com/google/lisp-koans) ⚠️ Archived
 * [30 Days of Elixir: A walk through the Elixir language in 30 exercises](https://github.com/seven1m/30-days-of-elixir) ⭐ 3,065 | 🐛 0 | 🌐 Elixir | 📅 2022-04-13
 * [TypeScript exercises: A set of interactive TypeScript exercises](https://github.com/typescript-exercises/typescript-exercises) ⭐ 3,008 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-29
@@ -132,7 +132,7 @@
 
 ## SaaS and APIs
 
-* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,241 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
+* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,240 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
 
 ## General Resources
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
