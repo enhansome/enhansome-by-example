@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24407,
+                "stars": 24408,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18336,
+                "stars": 18337,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -465,7 +465,7 @@
                 "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8120,
+                "stars": 8119,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6001,
+            "stars": 6000,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:35.714Z",
+    "last_updated": "2026-10-03T09:53:40.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",

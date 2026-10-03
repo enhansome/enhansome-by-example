@@ -69,8 +69,8 @@
 ### Python
 
 * [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,393 | 🐛 506 | 🌐 Python | 📅 2026-08-31
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,407 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-02
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,336 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,408 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-02
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,337 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,114 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
@@ -81,7 +81,7 @@
 ### Rust
 
 * [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,265 | 🐛 37 | 🌐 Rust | 📅 2026-09-29
-* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,120 | 🐛 82 | 🌐 Handlebars | 📅 2026-09-29
+* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,119 | 🐛 82 | 🌐 Handlebars | 📅 2026-09-29
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Scala
@@ -125,7 +125,7 @@
 
 ## Tools
 
-* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 6,001 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
+* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 6,000 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
 * [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
 * [Kubernetes for kids](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
