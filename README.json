@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Asmlings: Learn x86-64 assembly by fixing small programs",
-              "description": null,
+              "description": "KazeTachinuu/asmlings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "KazeTachinuu",
                 "repo": "asmlings",
-                "stars": 13,
+                "stars": 12,
                 "topics": [
                   "asm",
                   "assembly",
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "Clojure Koans: A set of exercises for learning Clojure",
-              "description": null,
+              "description": "functional-koans/clojure-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -64,7 +64,7 @@
             {
               "node_type": "item",
               "title": "Core.logic Koans: Learn core.logic with koans!",
-              "description": null,
+              "description": "sritchie/core.logic-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "Elm-TodoMVC: The TodoMVC app written in Elm, nice example for beginners",
-              "description": null,
+              "description": "evancz/elm-todomvc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "evancz",
                 "repo": "elm-todomvc",
-                "stars": 1214,
+                "stars": 1213,
                 "topics": [
                   "elm",
                   "example"
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "Elm Koans: A set of koans for learning Elm",
-              "description": null,
+              "description": "robertjlooby/elm-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -144,7 +144,7 @@
             {
               "node_type": "item",
               "title": "Go Koans: Koans for Go",
-              "description": null,
+              "description": "cdarwin/go-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,7 +172,7 @@
             {
               "node_type": "item",
               "title": "Java Koans: A framework and lessons to learn Java syntax and idioms in a logical sequence",
-              "description": null,
+              "description": "matyb/java-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -193,7 +193,7 @@
             {
               "node_type": "item",
               "title": "Neo4j tutorial: A koan-style tutorial in Java for Neo4j",
-              "description": null,
+              "description": "jimwebber/neo4j-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "JavaScript Koans: Koans to learn JavaScript",
-              "description": null,
+              "description": "mrdavidlaing/javascript-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -242,7 +242,7 @@
             {
               "node_type": "item",
               "title": "JavaScript Koans: An interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence",
-              "description": null,
+              "description": "liammclennan/JavaScript-Koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "geekcomputers/Python: A large collection of simple example Python programs",
-              "description": null,
+              "description": "geekcomputers/Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -283,7 +283,7 @@
                 "open_issues": 506,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35391,
+                "stars": 35393,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -291,7 +291,7 @@
             {
               "node_type": "item",
               "title": "Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills",
-              "description": null,
+              "description": "norvig/pytudes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -300,11 +300,11 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-01T03:41:55Z",
+                "last_commit": "2026-10-02T20:10:49Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24408,
+                "stars": 24407,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -318,7 +318,7 @@
             {
               "node_type": "item",
               "title": "Learn Python: 📚 Playground and cheatsheet for learning Python",
-              "description": null,
+              "description": "trekhleb/learn-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18337,
+                "stars": 18336,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -346,7 +346,7 @@
             {
               "node_type": "item",
               "title": "Python Koans: Learn Python through TDD",
-              "description": null,
+              "description": "gregmalcolm/python_koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5117,
+                "stars": 5114,
                 "topics": [
                   "koans",
                   "python"
@@ -377,7 +377,7 @@
             {
               "node_type": "item",
               "title": "Ruby Koans: Learn Ruby with the Edgecase Ruby Koans",
-              "description": null,
+              "description": "edgecase/ruby_koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -398,7 +398,7 @@
             {
               "node_type": "item",
               "title": "Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans)",
-              "description": null,
+              "description": "sathish316/metaprogramming_koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,7 +426,7 @@
             {
               "node_type": "item",
               "title": "Rustlings: Small exercises to get you used to reading and writing Rust code",
-              "description": null,
+              "description": "rust-lang/rustlings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -439,7 +439,7 @@
                 "open_issues": 37,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64262,
+                "stars": 64265,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -452,7 +452,7 @@
             {
               "node_type": "item",
               "title": "Rust by Example: Learn Rust with examples (Live code editor included)",
-              "description": null,
+              "description": "rust-lang/rust-by-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -480,7 +480,7 @@
             {
               "node_type": "item",
               "title": "Scalania: Learn Scala by examples",
-              "description": null,
+              "description": "jaceklaskowski/scalania",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "Ziglings: Learn the Zig programming language by fixing tiny broken programs",
-              "description": null,
+              "description": "ratfactor/ziglings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -536,7 +536,7 @@
             {
               "node_type": "item",
               "title": "Lisp Koans: Common Lisp Koans is a language learning exercise in the same vein as the ruby koans",
-              "description": null,
+              "description": "google/lisp-koans",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -557,7 +557,7 @@
             {
               "node_type": "item",
               "title": "30 Days of Elixir: A walk through the Elixir language in 30 exercises",
-              "description": null,
+              "description": "seven1m/30-days-of-elixir",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -578,7 +578,7 @@
             {
               "node_type": "item",
               "title": "TypeScript exercises: A set of interactive TypeScript exercises",
-              "description": null,
+              "description": "typescript-exercises/typescript-exercises",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -599,7 +599,7 @@
             {
               "node_type": "item",
               "title": "PSKoans: A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing",
-              "description": null,
+              "description": "PowerShellOrg/PSKoans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,8 +608,8 @@
                 "id": 139899094,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T01:52:46Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-02T17:40:20Z",
+                "open_issues": 46,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
                 "stars": 1881,
@@ -626,7 +626,7 @@
             {
               "node_type": "item",
               "title": "FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing",
-              "description": null,
+              "description": "ChrisMarinos/FSharpKoans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -647,7 +647,7 @@
             {
               "node_type": "item",
               "title": "FP Course: Learn Functional Programming concepts with the Haskell programming language",
-              "description": null,
+              "description": "tonymorris/fp-course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "Coffeescript Koans: learn CoffeeScript by doing it",
-              "description": null,
+              "description": "sleepyfox/coffeescript-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,7 +689,7 @@
             {
               "node_type": "item",
               "title": "Lua Missions: Lua Koans, minus the Zen stuff",
-              "description": null,
+              "description": "kikito/lua_missions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -710,7 +710,7 @@
             {
               "node_type": "item",
               "title": "Erlang Koans: A set of koans for learning Erlang",
-              "description": null,
+              "description": "patrickgombert/erlang-koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -731,7 +731,7 @@
             {
               "node_type": "item",
               "title": "V by Example: V by Example is a direct introduction to V by using annotated program examples",
-              "description": null,
+              "description": "v-community/v_by_example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -760,7 +760,7 @@
             {
               "node_type": "item",
               "title": "GNU Smalltalk Koans: A set of tests to teach you Smalltalk",
-              "description": null,
+              "description": "sl4m/gnu_smalltalk_koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -785,7 +785,7 @@
             {
               "node_type": "item",
               "title": "Perl Koans: A framework to learn-by-doing for Perl, with a heavy emphasis on testing",
-              "description": null,
+              "description": "forcedotcom/PerlKoans",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -806,7 +806,7 @@
             {
               "node_type": "item",
               "title": "Dart Koans: Achieve enlightenment through failure",
-              "description": null,
+              "description": "butlermatt/dart_koans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "Deno by Example: Learn Web Programming in Deno by Examples",
-              "description": null,
+              "description": "deepakshrma/deno-by-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -848,7 +848,7 @@
             {
               "node_type": "item",
               "title": "DLangKoans: An educational unit test suite for the D Programming Language",
-              "description": null,
+              "description": "ilmanzo/DLangKoans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -885,7 +885,7 @@
         {
           "node_type": "item",
           "title": "ReactJS Koans: Learn basics of React.js making the tests pass",
-          "description": null,
+          "description": "arkency/reactjs_koans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -906,7 +906,7 @@
         {
           "node_type": "item",
           "title": "OSMnx Examples: Usage examples, demos, and tutorials for OSMnx (OpenStreetMap)",
-          "description": null,
+          "description": "gboeing/osmnx-examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -946,7 +946,7 @@
         {
           "node_type": "item",
           "title": "Learning TensorFlow: Simple TensorFlow tutorials for learning by example",
-          "description": null,
+          "description": "michaelmendoza/learning-tensorflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -988,7 +988,7 @@
         {
           "node_type": "item",
           "title": "Quickserv Examples: Example applications to run with QuickServ",
-          "description": null,
+          "description": "jstrieb/quickserv-examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1015,7 +1015,7 @@
         {
           "node_type": "item",
           "title": "Makefile Tutorial: Learn make by example",
-          "description": null,
+          "description": "chaselambda/makefiletutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1042,7 +1042,7 @@
         {
           "node_type": "item",
           "title": "Apps Script Samples: Apps Script samples for Google Workspace products",
-          "description": null,
+          "description": "googleworkspace/apps-script-samples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5240,
+            "stars": 5238,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1080,7 +1080,7 @@
         {
           "node_type": "item",
           "title": "ahmdrefat/awesome-koans",
-          "description": null,
+          "description": "ahmdrefat/awesome-koans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1107,7 +1107,7 @@
         {
           "node_type": "item",
           "title": "Numerous Koans were adapted from ahmdrefat/awesome-koans",
-          "description": ".",
+          "description": "ahmdrefat/awesome-koans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:31:49.270Z",
+    "last_updated": "2026-10-03T04:34:35.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
