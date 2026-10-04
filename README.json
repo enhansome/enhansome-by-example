@@ -280,10 +280,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T19:47:57Z",
-                "open_issues": 506,
+                "open_issues": 507,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35393,
+                "stars": 35395,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24408,
+                "stars": 24409,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18337,
+                "stars": 18339,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5114,
+                "stars": 5115,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 37,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64265,
+                "stars": 64272,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8119,
+                "stars": 8121,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4673,
+                "stars": 4674,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -608,11 +608,11 @@
                 "id": 139899094,
                 "language": "PowerShell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T17:40:20Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-03T19:23:50Z",
+                "open_issues": 45,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1881,
+                "stars": 1883,
                 "topics": [
                   "hacktoberfest",
                   "koans",
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1893,
+            "stars": 1894,
             "topics": [
               "accessibility",
               "binder",
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5238,
+            "stars": 5239,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:53:40.578Z",
+    "last_updated": "2026-10-04T10:35:55.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
