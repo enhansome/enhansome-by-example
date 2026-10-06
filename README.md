@@ -68,7 +68,7 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,398 | 🐛 508 | 🌐 Python | 📅 2026-08-31
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,397 | 🐛 508 | 🌐 Python | 📅 2026-08-31
 * [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,412 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-05
 * [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,347 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,116 | 🐛 29 | 🌐 Python | 📅 2024-08-18
