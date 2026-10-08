@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "KazeTachinuu",
                 "repo": "asmlings",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "asm",
                   "assembly",
@@ -280,10 +280,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T19:47:57Z",
-                "open_issues": 507,
+                "open_issues": 506,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35400,
+                "stars": 35401,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24414,
+                "stars": 24415,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5116,
+                "stars": 5117,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 37,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64285,
+                "stars": 64299,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 82,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8124,
+                "stars": 8125,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3008,
+                "stars": 3009,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -709,6 +709,35 @@
             },
             {
               "node_type": "item",
+              "title": "V by Example: V by Example is a direct introduction to V by using annotated program examples",
+              "description": "v-community/v_by_example",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learn V by Example",
+                "homepage": "https://v-community.gitbook.io/v-by-example/",
+                "id": 209484496,
+                "language": "V",
+                "license": "MIT",
+                "last_commit": "2022-11-28T18:41:12Z",
+                "open_issues": 34,
+                "owner": "v-community",
+                "repo": "v_by_example",
+                "stars": 179,
+                "topics": [
+                  "educational",
+                  "hacktoberfest",
+                  "learning",
+                  "lessons",
+                  "programming",
+                  "v",
+                  "vlang"
+                ]
+              },
+              "first_seen": "2026-08-28T16:40:46.810Z"
+            },
+            {
+              "node_type": "item",
               "title": "Erlang Koans: A set of koans for learning Erlang",
               "description": "patrickgombert/erlang-koans",
               "children": [],
@@ -725,35 +754,6 @@
                 "repo": "erlang-koans",
                 "stars": 178,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T16:40:46.810Z"
-            },
-            {
-              "node_type": "item",
-              "title": "V by Example: V by Example is a direct introduction to V by using annotated program examples",
-              "description": "v-community/v_by_example",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Learn V by Example",
-                "homepage": "https://v-community.gitbook.io/v-by-example/",
-                "id": 209484496,
-                "language": "V",
-                "license": "MIT",
-                "last_commit": "2022-11-28T18:41:12Z",
-                "open_issues": 34,
-                "owner": "v-community",
-                "repo": "v_by_example",
-                "stars": 178,
-                "topics": [
-                  "educational",
-                  "hacktoberfest",
-                  "learning",
-                  "lessons",
-                  "programming",
-                  "v",
-                  "vlang"
-                ]
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
             },
@@ -919,7 +919,7 @@
             "open_issues": 0,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1894,
+            "stars": 1895,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6000,
+            "stars": 6001,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:06:22.627Z",
+    "last_updated": "2026-10-08T11:23:38.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
