@@ -283,7 +283,7 @@
                 "open_issues": 505,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35409,
+                "stars": 35412,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24413,
+                "stars": 24412,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18365,
+                "stars": 18370,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -436,10 +436,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-29T10:16:31Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64327,
+                "stars": 64334,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 83,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8127,
+                "stars": 8126,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4675,
+                "stars": 4676,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -570,7 +570,7 @@
                 "open_issues": 0,
                 "owner": "seven1m",
                 "repo": "30-days-of-elixir",
-                "stars": 3065,
+                "stars": 3064,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -916,7 +916,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-10-06T18:23:23Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "gboeing",
             "repo": "osmnx-examples",
             "stars": 1896,
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6001,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5244,
+            "stars": 5246,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:02:58.576Z",
+    "last_updated": "2026-10-13T11:50:29.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
