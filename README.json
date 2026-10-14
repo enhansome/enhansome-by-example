@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24412,
+                "stars": 24414,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18370,
+                "stars": 18378,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64334,
+                "stars": 64341,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3009,
+                "stars": 3008,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -898,7 +898,7 @@
             "open_issues": 14,
             "owner": "arkency",
             "repo": "reactjs_koans",
-            "stars": 3206,
+            "stars": 3207,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6003,
+            "stars": 6002,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 121,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5246,
+            "stars": 5249,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:50:29.361Z",
+    "last_updated": "2026-10-14T09:32:35.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
