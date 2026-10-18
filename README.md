@@ -34,7 +34,7 @@
 
 ### Clojure
 
-* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,804 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
+* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,803 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
 * [Core.logic Koans: Learn core.logic with koans!](https://github.com/sritchie/core.logic-koans) ⭐ 57 | 🐛 1 | 🌐 Clojure | 📅 2011-12-07
 * [4clojure: 4Clojure is a resource to help fledgling clojurians learn the language through interactive problems](https://www.4clojure.com/)
 * [Clojure Koans: Clojure koans are exercises meant to initiate you to the mysteries of the Clojure language](http://clojurekoans.com/)
@@ -47,7 +47,7 @@
 
 ### Go
 
-* [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans) ⭐ 2,063 | 🐛 7 | 🌐 Go | 📅 2022-03-26
+* [Go Koans: Koans for Go](https://github.com/cdarwin/go-koans) ⭐ 2,062 | 🐛 7 | 🌐 Go | 📅 2022-03-26
 * [Go by Example: A hands-on introduction to Go using annotated example programs](https://gobyexample.com/)
 
 ### Haskell
@@ -63,14 +63,14 @@
 
 ### JavaScript
 
-* [JavaScript Koans: Koans to learn JavaScript](https://github.com/mrdavidlaing/javascript-koans) ⭐ 2,415 | 🐛 83 | 🌐 JavaScript | 📅 2024-06-28
+* [JavaScript Koans: Koans to learn JavaScript](https://github.com/mrdavidlaing/javascript-koans) ⭐ 2,414 | 🐛 83 | 🌐 JavaScript | 📅 2024-06-28
 * [JavaScript Koans: An interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans) ⭐ 1,383 | 🐛 20 | 🌐 JavaScript | 📅 2024-02-03
 
 ### Python
 
 * [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,425 | 🐛 505 | 🌐 Python | 📅 2026-10-16
 * [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,414 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-05
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,404 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,412 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,122 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
@@ -80,8 +80,8 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,372 | 🐛 38 | 🌐 Rust | 📅 2026-09-29
-* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,132 | 🐛 84 | 🌐 Handlebars | 📅 2026-09-29
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,382 | 🐛 38 | 🌐 Rust | 📅 2026-09-29
+* [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,133 | 🐛 91 | 🌐 Handlebars | 📅 2026-09-29
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ### Scala
@@ -125,14 +125,14 @@
 
 ## Tools
 
-* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 6,002 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
+* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 6,003 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
 * [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
 * [Kubernetes for kids](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
 
 ## SaaS and APIs
 
-* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,250 | 🐛 121 | 🌐 JavaScript | 📅 2026-07-30
+* [Apps Script Samples: Apps Script samples for Google Workspace products](https://github.com/googleworkspace/apps-script-samples) ⭐ 5,249 | 🐛 124 | 🌐 JavaScript | 📅 2026-07-30
 
 ## General Resources
 
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

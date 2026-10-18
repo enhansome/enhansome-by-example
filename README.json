@@ -56,7 +56,7 @@
                 "open_issues": 9,
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3804,
+                "stars": 3803,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -157,7 +157,7 @@
                 "open_issues": 7,
                 "owner": "cdarwin",
                 "repo": "go-koans",
-                "stars": 2063,
+                "stars": 2062,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -234,7 +234,7 @@
                 "open_issues": 83,
                 "owner": "mrdavidlaing",
                 "repo": "javascript-koans",
-                "stars": 2415,
+                "stars": 2414,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18404,
+                "stars": 18412,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64372,
+                "stars": 64382,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -462,10 +462,10 @@
                 "language": "Handlebars",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T13:34:34Z",
-                "open_issues": 84,
+                "open_issues": 91,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8132,
+                "stars": 8133,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6002,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1052,10 +1052,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-30T15:21:47Z",
-            "open_issues": 121,
+            "open_issues": 124,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5250,
+            "stars": 5249,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:35:24.611Z",
+    "last_updated": "2026-10-18T08:52:06.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
