@@ -283,7 +283,7 @@
                 "open_issues": 505,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35426,
+                "stars": 35430,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18417,
+                "stars": 18422,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5122,
+                "stars": 5123,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64387,
+                "stars": 64395,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 91,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8133,
+                "stars": 8134,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -549,7 +549,7 @@
                 "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3191,
+                "stars": 3190,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -919,7 +919,7 @@
             "open_issues": 2,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1898,
+            "stars": 1899,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6002,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 124,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5250,
+            "stars": 5251,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:56:15.490Z",
+    "last_updated": "2026-10-20T09:27:16.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
