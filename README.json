@@ -56,7 +56,7 @@
                 "open_issues": 9,
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3803,
+                "stars": 3802,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -185,7 +185,7 @@
                 "open_issues": 10,
                 "owner": "matyb",
                 "repo": "java-koans",
-                "stars": 741,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -280,10 +280,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-16T14:41:01Z",
-                "open_issues": 505,
+                "open_issues": 504,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35439,
+                "stars": 35438,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24413,
+                "stars": 24415,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18452,
+                "stars": 18453,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5121,
+                "stars": 5120,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64434,
+                "stars": 64444,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -549,7 +549,7 @@
                 "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3191,
+                "stars": 3190,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -609,7 +609,7 @@
                 "language": "PowerShell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T19:23:50Z",
-                "open_issues": 27,
+                "open_issues": 19,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
                 "stars": 1881,
@@ -681,7 +681,7 @@
                 "open_issues": 1,
                 "owner": "sleepyfox",
                 "repo": "coffeescript-koans",
-                "stars": 446,
+                "stars": 445,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -915,11 +915,11 @@
             "id": 98002088,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-06T18:23:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-23T13:15:38Z",
+            "open_issues": 3,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1899,
+            "stars": 1898,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6007,
+            "stars": 6008,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:22:18.037Z",
+    "last_updated": "2026-10-24T08:53:46.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
