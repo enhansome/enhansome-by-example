@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "evancz",
                 "repo": "elm-todomvc",
-                "stars": 1213,
+                "stars": 1212,
                 "topics": [
                   "elm",
                   "example"
@@ -300,11 +300,11 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-24T14:42:05Z",
+                "last_commit": "2026-10-27T17:01:55Z",
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24416,
+                "stars": 24415,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18462,
+                "stars": 18465,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5123,
+                "stars": 5124,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64476,
+                "stars": 64483,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 91,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8134,
+                "stars": 8136,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4675,
+                "stars": 4676,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -549,7 +549,7 @@
                 "open_issues": 5,
                 "owner": "google",
                 "repo": "lisp-koans",
-                "stars": 3190,
+                "stars": 3187,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -919,7 +919,7 @@
             "open_issues": 3,
             "owner": "gboeing",
             "repo": "osmnx-examples",
-            "stars": 1898,
+            "stars": 1899,
             "topics": [
               "accessibility",
               "binder",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6008,
+            "stars": 6007,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:50:09.904Z",
+    "last_updated": "2026-10-28T10:36:25.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
