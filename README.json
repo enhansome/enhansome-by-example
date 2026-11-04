@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "evancz",
                 "repo": "elm-todomvc",
-                "stars": 1212,
+                "stars": 1213,
                 "topics": [
                   "elm",
                   "example"
@@ -255,7 +255,7 @@
                 "open_issues": 20,
                 "owner": "liammclennan",
                 "repo": "JavaScript-Koans",
-                "stars": 1383,
+                "stars": 1384,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -280,7 +280,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-16T14:41:01Z",
-                "open_issues": 505,
+                "open_issues": 507,
                 "owner": "geekcomputers",
                 "repo": "Python",
                 "stars": 35470,
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24421,
+                "stars": 24424,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18480,
+                "stars": 18482,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 38,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64550,
+                "stars": 64556,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 84,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8141,
+                "stars": 8143,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -570,7 +570,7 @@
                 "open_issues": 0,
                 "owner": "seven1m",
                 "repo": "30-days-of-elixir",
-                "stars": 3064,
+                "stars": 3065,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -639,7 +639,7 @@
                 "open_issues": 14,
                 "owner": "ChrisMarinos",
                 "repo": "FSharpKoans",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 124,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5264,
+            "stars": 5265,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:57:33.362Z",
+    "last_updated": "2026-11-04T12:11:04.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
