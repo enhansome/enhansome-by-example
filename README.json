@@ -185,7 +185,7 @@
                 "open_issues": 10,
                 "owner": "matyb",
                 "repo": "java-koans",
-                "stars": 740,
+                "stars": 741,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -279,11 +279,11 @@
                 "id": 2881789,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T08:48:47Z",
+                "last_commit": "2026-11-05T18:12:09Z",
                 "open_issues": 506,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35468,
+                "stars": 35474,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24426,
+                "stars": 24427,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18485,
+                "stars": 18489,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -436,10 +436,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-26T17:14:42Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64566,
+                "stars": 64584,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6012,
+            "stars": 6011,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:24:17.737Z",
+    "last_updated": "2026-11-06T12:08:36.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",

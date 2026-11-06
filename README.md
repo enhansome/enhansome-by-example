@@ -58,7 +58,7 @@
 
 ### Java
 
-* [Java Koans: A framework and lessons to learn Java syntax and idioms in a logical sequence](https://github.com/matyb/java-koans) ⭐ 740 | 🐛 10 | 🌐 Java | 📅 2023-05-18
+* [Java Koans: A framework and lessons to learn Java syntax and idioms in a logical sequence](https://github.com/matyb/java-koans) ⭐ 741 | 🐛 10 | 🌐 Java | 📅 2023-05-18
 * [Neo4j tutorial: A koan-style tutorial in Java for Neo4j](https://github.com/jimwebber/neo4j-tutorial) ⭐ 315 | 🐛 10 | 🌐 Java | 📅 2015-03-26
 
 ### JavaScript
@@ -68,9 +68,9 @@
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,468 | 🐛 506 | 🌐 Python | 📅 2026-11-05
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,426 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-28
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,485 | 🐛 43 | 🌐 Python | 📅 2026-04-06
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,474 | 🐛 506 | 🌐 Python | 📅 2026-11-05
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,427 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-10-28
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,489 | 🐛 43 | 🌐 Python | 📅 2026-04-06
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,126 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
@@ -80,7 +80,7 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,566 | 🐛 38 | 🌐 Rust | 📅 2026-10-26
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,584 | 🐛 39 | 🌐 Rust | 📅 2026-10-26
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,141 | 🐛 84 | 🌐 Handlebars | 📅 2026-09-29
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -125,7 +125,7 @@
 
 ## Tools
 
-* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 6,012 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
+* [Makefile Tutorial: Learn make by example](https://github.com/theicfire/makefiletutorial) ⭐ 6,011 | 🐛 8 | 🌐 SCSS | 📅 2025-06-02
 * [Git Immersion: A guided tour that walks through the fundamentals of Git](http://gitimmersion.com/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
 * [Kubernetes for kids](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
