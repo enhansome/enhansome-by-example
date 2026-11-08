@@ -280,10 +280,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T18:12:09Z",
-                "open_issues": 507,
+                "open_issues": 508,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35475,
+                "stars": 35479,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24426,
+                "stars": 24425,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18490,
+                "stars": 18492,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -439,7 +439,7 @@
                 "open_issues": 39,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64590,
+                "stars": 64602,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 84,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8143,
+                "stars": 8144,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 124,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5266,
+            "stars": 5265,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:05:41.996Z",
+    "last_updated": "2026-11-08T11:18:24.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
