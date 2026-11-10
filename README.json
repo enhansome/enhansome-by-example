@@ -185,7 +185,7 @@
                 "open_issues": 10,
                 "owner": "matyb",
                 "repo": "java-koans",
-                "stars": 741,
+                "stars": 742,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -206,7 +206,7 @@
                 "open_issues": 10,
                 "owner": "jimwebber",
                 "repo": "neo4j-tutorial",
-                "stars": 315,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -255,7 +255,7 @@
                 "open_issues": 20,
                 "owner": "liammclennan",
                 "repo": "JavaScript-Koans",
-                "stars": 1384,
+                "stars": 1385,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -283,7 +283,7 @@
                 "open_issues": 508,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35481,
+                "stars": 35480,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18500,
+                "stars": 18505,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -390,7 +390,7 @@
                 "open_issues": 7,
                 "owner": "edgecase",
                 "repo": "ruby_koans",
-                "stars": 823,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -439,7 +439,7 @@
                 "open_issues": 39,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64614,
+                "stars": 64629,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 84,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8146,
+                "stars": 8149,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -591,7 +591,7 @@
                 "open_issues": 22,
                 "owner": "typescript-exercises",
                 "repo": "typescript-exercises",
-                "stars": 3008,
+                "stars": 3009,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:54:56.769Z",
+    "last_updated": "2026-11-10T12:41:10.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
