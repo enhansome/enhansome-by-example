@@ -255,7 +255,7 @@
                 "open_issues": 20,
                 "owner": "liammclennan",
                 "repo": "JavaScript-Koans",
-                "stars": 1385,
+                "stars": 1384,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -283,7 +283,7 @@
                 "open_issues": 508,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35480,
+                "stars": 35483,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -331,7 +331,7 @@
                 "open_issues": 43,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18505,
+                "stars": 18510,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -435,11 +435,11 @@
                 "id": 42489829,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-26T17:14:42Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-10T21:29:44Z",
+                "open_issues": 40,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64629,
+                "stars": 64634,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -465,7 +465,7 @@
                 "open_issues": 84,
                 "owner": "rust-lang",
                 "repo": "rust-by-example",
-                "stars": 8149,
+                "stars": 8150,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -612,7 +612,7 @@
                 "open_issues": 9,
                 "owner": "PowerShellOrg",
                 "repo": "PSKoans",
-                "stars": 1883,
+                "stars": 1884,
                 "topics": [
                   "hacktoberfest",
                   "koans",
@@ -1028,7 +1028,7 @@
             "open_issues": 8,
             "owner": "chaselambda",
             "repo": "makefiletutorial",
-            "stars": 6011,
+            "stars": 6013,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1055,7 +1055,7 @@
             "open_issues": 124,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5268,
+            "stars": 5269,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:41:10.615Z",
+    "last_updated": "2026-11-11T11:53:56.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
