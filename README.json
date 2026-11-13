@@ -283,7 +283,7 @@
                 "open_issues": 508,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35483,
+                "stars": 35484,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24425,
+                "stars": 24424,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5130,
+                "stars": 5131,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 40,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64645,
+                "stars": 64662,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4676,
+                "stars": 4677,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -898,7 +898,7 @@
             "open_issues": 14,
             "owner": "arkency",
             "repo": "reactjs_koans",
-            "stars": 3206,
+            "stars": 3205,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T12:45:48.498Z",
+    "last_updated": "2026-11-13T12:16:01.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
