@@ -157,7 +157,7 @@
                 "open_issues": 7,
                 "owner": "cdarwin",
                 "repo": "go-koans",
-                "stars": 2062,
+                "stars": 2063,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -234,7 +234,7 @@
                 "open_issues": 83,
                 "owner": "mrdavidlaing",
                 "repo": "javascript-koans",
-                "stars": 2412,
+                "stars": 2413,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -279,8 +279,8 @@
                 "id": 2881789,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T18:12:09Z",
-                "open_issues": 508,
+                "last_commit": "2026-11-16T09:31:30Z",
+                "open_issues": 509,
                 "owner": "geekcomputers",
                 "repo": "Python",
                 "stars": 35485,
@@ -304,7 +304,7 @@
                 "open_issues": 29,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24424,
+                "stars": 24426,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 44,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18513,
+                "stars": 18539,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5132,
+                "stars": 5133,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 40,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64689,
+                "stars": 64694,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -521,7 +521,7 @@
                 "open_issues": 2,
                 "owner": "ratfactor",
                 "repo": "ziglings",
-                "stars": 4676,
+                "stars": 4678,
                 "topics": [
                   "beginner-friendly",
                   "educational",
@@ -702,7 +702,7 @@
                 "open_issues": 4,
                 "owner": "kikito",
                 "repo": "lua_missions",
-                "stars": 396,
+                "stars": 397,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -898,7 +898,7 @@
             "open_issues": 14,
             "owner": "arkency",
             "repo": "reactjs_koans",
-            "stars": 3205,
+            "stars": 3204,
             "topics": []
           },
           "first_seen": "2026-08-28T16:40:46.810Z"
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T11:58:15.870Z",
+    "last_updated": "2026-11-16T12:47:48.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
