@@ -283,7 +283,7 @@
                 "open_issues": 508,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35514,
+                "stars": 35519,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -304,7 +304,7 @@
                 "open_issues": 30,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24431,
+                "stars": 24433,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 44,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18599,
+                "stars": 18606,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5134,
+                "stars": 5135,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 40,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64773,
+                "stars": 64786,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -1055,7 +1055,7 @@
             "open_issues": 124,
             "owner": "googleworkspace",
             "repo": "apps-script-samples",
-            "stars": 5272,
+            "stars": 5273,
             "topics": [
               "adminsdk",
               "apps-script",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:54:03.680Z",
+    "last_updated": "2026-11-25T14:26:18.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",
