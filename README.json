@@ -56,7 +56,7 @@
                 "open_issues": 9,
                 "owner": "functional-koans",
                 "repo": "clojure-koans",
-                "stars": 3800,
+                "stars": 3799,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -231,7 +231,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-06-28T06:21:46Z",
-                "open_issues": 83,
+                "open_issues": 82,
                 "owner": "mrdavidlaing",
                 "repo": "javascript-koans",
                 "stars": 2412,
@@ -280,10 +280,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-24T13:57:02Z",
-                "open_issues": 508,
+                "open_issues": 511,
                 "owner": "geekcomputers",
                 "repo": "Python",
-                "stars": 35526,
+                "stars": 35531,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -300,11 +300,11 @@
                 "id": 83516498,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-26T21:58:24Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-27T20:42:09Z",
+                "open_issues": 32,
                 "owner": "norvig",
                 "repo": "pytudes",
-                "stars": 24441,
+                "stars": 24440,
                 "topics": [
                   "demonstrate-skills",
                   "practice",
@@ -331,7 +331,7 @@
                 "open_issues": 44,
                 "owner": "trekhleb",
                 "repo": "learn-python",
-                "stars": 18614,
+                "stars": 18618,
                 "topics": [
                   "learning",
                   "learning-by-doing",
@@ -359,7 +359,7 @@
                 "open_issues": 29,
                 "owner": "gregmalcolm",
                 "repo": "python_koans",
-                "stars": 5135,
+                "stars": 5136,
                 "topics": [
                   "koans",
                   "python"
@@ -439,7 +439,7 @@
                 "open_issues": 40,
                 "owner": "rust-lang",
                 "repo": "rustlings",
-                "stars": 64826,
+                "stars": 64839,
                 "topics": [
                   "beginner-friendly",
                   "exercises",
@@ -702,7 +702,7 @@
                 "open_issues": 4,
                 "owner": "kikito",
                 "repo": "lua_missions",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:40:46.810Z"
@@ -857,7 +857,7 @@
                 "id": 25178675,
                 "language": "D",
                 "license": null,
-                "last_commit": "2026-11-27T13:48:40Z",
+                "last_commit": "2026-11-27T13:56:18Z",
                 "open_issues": 0,
                 "owner": "ilmanzo",
                 "repo": "DLangKoans",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:54:59.981Z",
+    "last_updated": "2026-11-28T13:02:05.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of example-based learning resources.",

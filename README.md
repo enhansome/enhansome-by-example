@@ -34,7 +34,7 @@
 
 ### Clojure
 
-* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,800 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
+* [Clojure Koans: A set of exercises for learning Clojure](https://github.com/functional-koans/clojure-koans) ⭐ 3,799 | 🐛 9 | 🌐 Clojure | 📅 2024-05-28
 * [Core.logic Koans: Learn core.logic with koans!](https://github.com/sritchie/core.logic-koans) ⭐ 57 | 🐛 1 | 🌐 Clojure | 📅 2011-12-07
 * [4clojure: 4Clojure is a resource to help fledgling clojurians learn the language through interactive problems](https://www.4clojure.com/)
 * [Clojure Koans: Clojure koans are exercises meant to initiate you to the mysteries of the Clojure language](http://clojurekoans.com/)
@@ -63,15 +63,15 @@
 
 ### JavaScript
 
-* [JavaScript Koans: Koans to learn JavaScript](https://github.com/mrdavidlaing/javascript-koans) ⭐ 2,412 | 🐛 83 | 🌐 JavaScript | 📅 2024-06-28
+* [JavaScript Koans: Koans to learn JavaScript](https://github.com/mrdavidlaing/javascript-koans) ⭐ 2,412 | 🐛 82 | 🌐 JavaScript | 📅 2024-06-28
 * [JavaScript Koans: An interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence](https://github.com/liammclennan/JavaScript-Koans) ⭐ 1,383 | 🐛 20 | 🌐 JavaScript | 📅 2024-02-03
 
 ### Python
 
-* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,526 | 🐛 508 | 🌐 Python | 📅 2026-11-24
-* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,441 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2026-11-26
-* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,614 | 🐛 44 | 🌐 Python | 📅 2026-04-06
-* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,135 | 🐛 29 | 🌐 Python | 📅 2024-08-18
+* [geekcomputers/Python: A large collection of simple example Python programs](https://github.com/geekcomputers/Python) ⭐ 35,531 | 🐛 511 | 🌐 Python | 📅 2026-11-24
+* [Pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes) ⭐ 24,440 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-11-27
+* [Learn Python: 📚 Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,618 | 🐛 44 | 🌐 Python | 📅 2026-04-06
+* [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans) ⭐ 5,136 | 🐛 29 | 🌐 Python | 📅 2024-08-18
 
 ### Ruby
 
@@ -80,7 +80,7 @@
 
 ### Rust
 
-* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,826 | 🐛 40 | 🌐 Rust | 📅 2026-11-10
+* [Rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings) ⭐ 64,839 | 🐛 40 | 🌐 Rust | 📅 2026-11-10
 * [Rust by Example: Learn Rust with examples (Live code editor included)](https://github.com/rust-lang/rust-by-example) ⭐ 8,166 | 🐛 87 | 🌐 Handlebars | 📅 2026-09-29
 * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -99,7 +99,7 @@
 * [FSharpKoans: A simple, fun, and interactive way to learn the F# language through testing](https://github.com/ChrisMarinos/FSharpKoans) ⭐ 1,323 | 🐛 14 | 🌐 F# | 📅 2024-02-22
 * [FP Course: Learn Functional Programming concepts with the Haskell programming language](https://github.com/tonymorris/course) ⭐ 1,027 | 🐛 18 | 🌐 Haskell | 📅 2023-03-06
 * [Coffeescript Koans: learn CoffeeScript by doing it](https://github.com/sleepyfox/coffeescript-koans) ⭐ 445 | 🐛 1 | 🌐 CoffeeScript | 📅 2016-08-29
-* [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions) ⭐ 397 | 🐛 4 | 🌐 Lua | 📅 2024-06-08
+* [Lua Missions: Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions) ⭐ 398 | 🐛 4 | 🌐 Lua | 📅 2024-06-08
 * [V by Example: V by Example is a direct introduction to V by using annotated program examples](https://github.com/v-community/v_by_example) ⭐ 179 | 🐛 34 | 🌐 V | 📅 2022-11-28
 * [Erlang Koans: A set of koans for learning Erlang](https://github.com/patrickgombert/erlang-koans) ⭐ 177 | 🐛 0 | 🌐 Erlang | 📅 2020-03-31
 * [GNU Smalltalk Koans: A set of tests to teach you Smalltalk](https://github.com/sl4m/gnu_smalltalk_koans) ⭐ 175 | 🐛 0 | 🌐 Smalltalk | 📅 2020-06-19
@@ -153,4 +153,4 @@ Contributions via PR or issue are welcome! Read the [contribution guidelines](CO
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
